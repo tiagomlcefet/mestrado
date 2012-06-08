@@ -1,0 +1,68 @@
+-- VERSION_3
+-- START DISKCACHE
+/home/tiago/Desenvolvimento/.metadata/.plugins/org.eclipse.core.resources/.projects/Heuristica-Mestrado/com.python.pydev.analysis/v1_indexcache
+.v1_indexcache
+grasp|0|/home/tiago/Desenvolvimento/Heuristica-Mestrado/src/grasp.py
+heuristica_old|0|/home/tiago/Desenvolvimento/Heuristica-Mestrado/src/heuristica_old.py
+heuristica_grasp_1|0|/home/tiago/Desenvolvimento/Heuristica-Mestrado/src/heuristica_grasp_1.py
+heuristica_gulosa|0|/home/tiago/Desenvolvimento/Heuristica-Mestrado/src/heuristica_gulosa.py
+heuristica2|0|/home/tiago/Desenvolvimento/Heuristica-Mestrado/src/heuristica2.py
+heuristica_grasp_2|0|/home/tiago/Desenvolvimento/Heuristica-Mestrado/src/heuristica_grasp_2.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+4=grasp
+5=heuristica_old
+2=heuristica_grasp_1
+3=heuristica_gulosa
+6=heuristica2
+1=heuristica_grasp_2
+-- END DICTIONARY
+-- START TREE 1
+42
+arm|8|armazena_j!11@armazena_i2!11@armazena_j!19@armazena_i!11@armazena_j2!11@armazena_i!27@armazena_j!27@armazena_i!19@
+com|3|compara!11@compara!35@compara!19@
+con|21|cont!27@contador_ap!19@contador_user!19@contador!43@contador_ap!11@contador_user2!11@contador_ap!43@contador_user!27@contador_user!51@contador_user2!19@contador_user!11@contador_user2!27@contador!27@contador_ap!35@contador_ap!51@cont!11@contador_ap!27@contador_user!35@cont!19@contador_user!43@contador!51@
+d|6|d!43@d!27@d!51@d!19@d!35@d!11@
+d_e|2|d_e!51@d_e!27@
+fin|2|final!19@final!11@
+gat|4|gatilho!11@gatilho!35@gatilho!19@gatilho!27@
+gua|16|guarda_i!11@guarda_i!43@guarda_j!51@guarda_i!19@guarda_j!43@guarda_i_ant!27@guarda_j_ant!27@guarda_j!11@guarda_j!19@guarda_i!27@guarda_i_ant!51@guarda_i_ant!43@guarda_j_ant!51@guarda_j!27@guarda_i!51@guarda_j_ant!43@
+h|3|h!19@h!35@h!11@
+i|4|i!27@i!35@i!11@i!19@
+i_a|8|i_ant!19@i_antigo!19@i_ap!35@i_antigo!35@i_ant!27@i_ant!11@i_ant!35@i_antigo!11@
+i_n|3|i_novo!19@i_novo!11@i_novo!35@
+j|4|j!19@j!35@j!11@j!27@
+j_a|8|j_antigo!35@j_antigo!19@j_ant!19@j_ant!27@j_antigo!11@j_ant!11@j_ant!35@j_ap!35@
+j_n|3|j_novo!19@j_novo!11@j_novo!35@
+lis|3|lista!11@lista!35@lista!19@
+mai|5|maior!43@maior!19@maior!27@maior!11@maior!51@
+mat|25|matriz_qtde!27@matriz_ap!43@matriz_ap!11@matriz_ap!19@matriz_user_aux!43@matriz_user!43@matriz_user!35@matriz_ap_aux!19@matriz_qtde!43@matriz_ap_aux!11@matriz_user!27@matriz_user_aux!51@matriz_user!19@matriz_user!11@matriz_ap!51@matriz_ap!27@matriz_ap_aux!43@matriz_ap_aux!27@matriz_user_aux!27@matriz_ap_aux!51@matriz_ap!35@matriz_user_aux!11@matriz_qtde!51@matriz_user!51@matriz_user_aux!19@
+max|5|max_user!11@max_user_ils!27@max_user!27@max_user!19@max_user_ils_final!27@
+mel|5|melhor_ponto_ant_J!27@melhor_ponto_ant_j!27@melhor_ponto_ant_i!27@melhor_solucao!11@melhor_solucao!19@
+men|1|menor!35@
+p|1|p!51@
+par|5|para!11@para!43@para!27@para!19@para!51@
+pas|1|passe!35@
+peg|2|pega_j!27@pega_i!27@
+pon|5|ponteiro!51@ponteiro!35@ponto_j!27@ponto!27@ponto_i!27@
+pos|3|posicao!35@posicao_i!35@posicao_j!35@
+pri|3|primeiro_resultado!27@primeiro_resultado!11@primeiro_resultado!19@
+qtd|7|qtde_user!43@qtde_user!19@qtde_user!51@qtde_user!11@qtde_usuario!35@qtde!35@qtde_user!27@
+res|3|resposta!19@resposta!27@resposta!11@
+sai|2|saida!19@saida!11@
+sal|2|salva_j!27@salva_i!27@
+sol|19|solucao_inicial_melhorada_3!35@solucao_inicial!27@solucao_inicial_melhorada_aux!27@solucao_inicial_melhorada_aux!11@solucao_inicial_melhorada_aux!19@solucao_inicial_melhorada!11@solucao_inicial_melhorada_2!35@solucao_inicial!43@solucao_ils_melhorada!27@solucao_ils!27@solucao_inicial!19@solucao_inicial!35@solucao_ils_melhorada_aux!27@solucao_final!27@solucao_inicial_melhorada!27@solucao_inicial_melhorada!35@solucao_inicial!51@solucao_inicial_melhorada!19@solucao_inicial!11@
+sta|2|start!19@start!11@
+tem|2|tempo_execucao!19@tempo_execucao!11@
+tes|1|teste!35@
+tro|2|troca!11@troca!35@
+ult|6|ultimo_j!51@ultimo_i!43@ultimo_j!27@ultimo_i!51@ultimo_j!43@ultimo_i!27@
+use|2|user_ap_final!35@user_ap!35@
+usu|2|usuario_conectado_inicial!35@usuario_conectado!35@
+val|1|valor!35@
+z|1|z!35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

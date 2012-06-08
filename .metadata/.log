@@ -1,0 +1,2728 @@
+!SESSION 2011-04-25 08:35:38.301 -----------------------------------------------
+eclipse.buildId=M20100211-1343
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=pt_BR
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+This is a continuation of log file /home/tiago/Desenvolvimento/.metadata/.bak_0.log
+Created Time: 2011-04-25 08:36:06.829
+!SESSION 2011-04-25 08:35:38.301 -----------------------------------------------
+eclipse.buildId=M20100211-1343
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=pt_BR
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.jface 2 0 2011-04-25 08:36:06.831
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2011-04-25 08:36:06.831
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(com.python.pydev.analysis.actions.pyGlobalsBrowserWorkbench,Python Show Class Browser,
+		Show Class Browser,
+		Category(org.python.pydev.ui.category.source,Pydev - Editor,Pydev editor category,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SESSION 2011-04-27 00:04:24.614 -----------------------------------------------
+eclipse.buildId=M20100211-1343
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=pt_BR
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.jface 2 0 2011-04-27 00:04:44.730
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2011-04-27 00:04:44.730
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(com.python.pydev.analysis.actions.pyGlobalsBrowserWorkbench,Python Show Class Browser,
+		Show Class Browser,
+		Category(org.python.pydev.ui.category.source,Pydev - Editor,Pydev editor category,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SESSION 2011-04-27 15:05:13.509 -----------------------------------------------
+eclipse.buildId=M20100211-1343
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=pt_BR
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.jface 2 0 2011-04-27 15:06:04.563
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2011-04-27 15:06:04.563
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(com.python.pydev.analysis.actions.pyGlobalsBrowserWorkbench,Python Show Class Browser,
+		Show Class Browser,
+		Category(org.python.pydev.ui.category.source,Pydev - Editor,Pydev editor category,true),
+		ActionDelegateHandlerProxy(null,com.python.pydev.analysis.actions.PyGlobalsBrowserWorkbench),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SESSION 2011-04-27 21:44:13.084 -----------------------------------------------
+eclipse.buildId=M20100211-1343
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=pt_BR
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.jface 2 0 2011-04-27 21:44:54.314
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2011-04-27 21:44:54.314
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(com.python.pydev.analysis.actions.pyGlobalsBrowserWorkbench,Python Show Class Browser,
+		Show Class Browser,
+		Category(org.python.pydev.ui.category.source,Pydev - Editor,Pydev editor category,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SESSION 2011-04-29 16:30:37.799 -----------------------------------------------
+eclipse.buildId=M20100211-1343
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=pt_BR
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.jface 2 0 2011-04-29 16:31:43.626
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2011-04-29 16:31:43.627
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(com.python.pydev.analysis.actions.pyGlobalsBrowserWorkbench,Python Show Class Browser,
+		Show Class Browser,
+		Category(org.python.pydev.ui.category.source,Pydev - Editor,Pydev editor category,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SESSION 2011-04-29 20:17:45.135 -----------------------------------------------
+eclipse.buildId=M20100211-1343
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=pt_BR
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.jface 2 0 2011-04-29 20:18:29.972
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2011-04-29 20:18:29.972
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(com.python.pydev.analysis.actions.pyGlobalsBrowserWorkbench,Python Show Class Browser,
+		Show Class Browser,
+		Category(org.python.pydev.ui.category.source,Pydev - Editor,Pydev editor category,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SESSION 2011-04-30 08:54:58.960 -----------------------------------------------
+eclipse.buildId=M20100211-1343
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=pt_BR
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.jface 2 0 2011-04-30 08:55:20.328
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2011-04-30 08:55:20.328
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(com.python.pydev.analysis.actions.pyGlobalsBrowserWorkbench,Python Show Class Browser,
+		Show Class Browser,
+		Category(org.python.pydev.ui.category.source,Pydev - Editor,Pydev editor category,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SESSION 2011-05-02 07:00:39.056 -----------------------------------------------
+eclipse.buildId=M20100211-1343
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=pt_BR
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.jface 2 0 2011-05-02 07:01:30.018
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2011-05-02 07:01:30.018
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(com.python.pydev.analysis.actions.pyGlobalsBrowserWorkbench,Python Show Class Browser,
+		Show Class Browser,
+		Category(org.python.pydev.ui.category.source,Pydev - Editor,Pydev editor category,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SESSION 2011-05-02 21:48:37.114 -----------------------------------------------
+eclipse.buildId=M20100211-1343
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=pt_BR
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.jface 2 0 2011-05-02 21:49:05.023
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2011-05-02 21:49:05.023
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(com.python.pydev.analysis.actions.pyGlobalsBrowserWorkbench,Python Show Class Browser,
+		Show Class Browser,
+		Category(org.python.pydev.ui.category.source,Pydev - Editor,Pydev editor category,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2011-05-02 22:47:43.779
+!MESSAGE org.tigris.subversion.javahl.ClientException: Não foi possível encontrar uma entrada
+svn: Commit falhou (detalhes a seguir):
+svn: '/home/tiago/Desenvolvimento/Heuristica-Mestrado/src/saida_grasp2.txt' não está sobre controle de versão
+
+!STACK 0
+org.tigris.subversion.svnclientadapter.SVNClientException: org.tigris.subversion.javahl.ClientException: Não foi possível encontrar uma entrada
+svn: Commit falhou (detalhes a seguir):
+svn: '/home/tiago/Desenvolvimento/Heuristica-Mestrado/src/saida_grasp2.txt' não está sobre controle de versão
+
+	at org.tigris.subversion.svnclientadapter.javahl.AbstractJhlClientAdapter.commit(AbstractJhlClientAdapter.java:325)
+	at org.tigris.subversion.subclipse.core.commands.CheckinResourcesCommand$1.run(CheckinResourcesCommand.java:118)
+	at org.tigris.subversion.subclipse.core.SVNProviderPlugin$5.run(SVNProviderPlugin.java:469)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:1800)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:1782)
+	at org.tigris.subversion.subclipse.core.SVNProviderPlugin.run(SVNProviderPlugin.java:464)
+	at org.tigris.subversion.subclipse.core.commands.CheckinResourcesCommand.run(CheckinResourcesCommand.java:94)
+	at org.tigris.subversion.subclipse.core.SVNTeamProvider.checkin(SVNTeamProvider.java:139)
+	at org.tigris.subversion.subclipse.ui.operations.CommitOperation.execute(CommitOperation.java:124)
+	at org.tigris.subversion.subclipse.ui.operations.SVNOperation.run(SVNOperation.java:90)
+	at org.eclipse.team.internal.ui.actions.JobRunnableContext.run(JobRunnableContext.java:144)
+	at org.eclipse.team.internal.ui.actions.JobRunnableContext$ResourceJob.runInWorkspace(JobRunnableContext.java:72)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: org.tigris.subversion.javahl.ClientException: Não foi possível encontrar uma entrada
+svn: Commit falhou (detalhes a seguir):
+svn: '/home/tiago/Desenvolvimento/Heuristica-Mestrado/src/saida_grasp2.txt' não está sobre controle de versão
+
+	at org.tigris.subversion.javahl.SVNClient.commit(Native Method)
+	at org.tigris.subversion.javahl.SVNClient.commit(SVNClient.java:524)
+	at org.tigris.subversion.svnclientadapter.javahl.AbstractJhlClientAdapter.commit(AbstractJhlClientAdapter.java:319)
+	... 13 more
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2011-05-02 22:49:33.075
+!MESSAGE org.tigris.subversion.javahl.ClientException: Requisição de camada RA falhou
+svn: Commit falhou (detalhes a seguir):
+svn: Servidor enviou valor de retorno inválido (502 Bad Gateway) na resposta a OPTIONS pedido por 'https://heuristica-mestrado.googlecode.com/svn/trunk/src'
+
+!STACK 0
+org.tigris.subversion.svnclientadapter.SVNClientException: org.tigris.subversion.javahl.ClientException: Requisição de camada RA falhou
+svn: Commit falhou (detalhes a seguir):
+svn: Servidor enviou valor de retorno inválido (502 Bad Gateway) na resposta a OPTIONS pedido por 'https://heuristica-mestrado.googlecode.com/svn/trunk/src'
+
+	at org.tigris.subversion.svnclientadapter.javahl.AbstractJhlClientAdapter.commit(AbstractJhlClientAdapter.java:325)
+	at org.tigris.subversion.subclipse.core.commands.CheckinResourcesCommand$1.run(CheckinResourcesCommand.java:118)
+	at org.tigris.subversion.subclipse.core.SVNProviderPlugin$5.run(SVNProviderPlugin.java:469)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:1800)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:1782)
+	at org.tigris.subversion.subclipse.core.SVNProviderPlugin.run(SVNProviderPlugin.java:464)
+	at org.tigris.subversion.subclipse.core.commands.CheckinResourcesCommand.run(CheckinResourcesCommand.java:94)
+	at org.tigris.subversion.subclipse.core.SVNTeamProvider.checkin(SVNTeamProvider.java:139)
+	at org.tigris.subversion.subclipse.ui.operations.CommitOperation.execute(CommitOperation.java:124)
+	at org.tigris.subversion.subclipse.ui.operations.SVNOperation.run(SVNOperation.java:90)
+	at org.eclipse.team.internal.ui.actions.JobRunnableContext.run(JobRunnableContext.java:144)
+	at org.eclipse.team.internal.ui.actions.JobRunnableContext$ResourceJob.runInWorkspace(JobRunnableContext.java:72)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: org.tigris.subversion.javahl.ClientException: Requisição de camada RA falhou
+svn: Commit falhou (detalhes a seguir):
+svn: Servidor enviou valor de retorno inválido (502 Bad Gateway) na resposta a OPTIONS pedido por 'https://heuristica-mestrado.googlecode.com/svn/trunk/src'
+
+	at org.tigris.subversion.javahl.SVNClient.commit(Native Method)
+	at org.tigris.subversion.javahl.SVNClient.commit(SVNClient.java:524)
+	at org.tigris.subversion.svnclientadapter.javahl.AbstractJhlClientAdapter.commit(AbstractJhlClientAdapter.java:319)
+	... 13 more
+!SESSION 2011-05-03 11:24:06.237 -----------------------------------------------
+eclipse.buildId=M20100211-1343
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=pt_BR
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.jface 2 0 2011-05-03 11:24:26.378
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2011-05-03 11:24:26.378
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(com.python.pydev.analysis.actions.pyGlobalsBrowserWorkbench,Python Show Class Browser,
+		Show Class Browser,
+		Category(org.python.pydev.ui.category.source,Pydev - Editor,Pydev editor category,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SESSION 2011-05-16 20:50:29.091 -----------------------------------------------
+eclipse.buildId=M20100211-1343
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=pt_BR
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.jface 2 0 2011-05-16 20:51:15.991
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2011-05-16 20:51:15.991
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(com.python.pydev.analysis.actions.pyGlobalsBrowserWorkbench,Python Show Class Browser,
+		Show Class Browser,
+		Category(org.python.pydev.ui.category.source,Pydev - Editor,Pydev editor category,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SESSION 2011-05-22 16:47:22.696 -----------------------------------------------
+eclipse.buildId=M20100211-1343
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=pt_BR
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.jface 2 0 2011-05-22 16:47:49.000
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2011-05-22 16:47:49.000
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(com.python.pydev.analysis.actions.pyGlobalsBrowserWorkbench,Python Show Class Browser,
+		Show Class Browser,
+		Category(org.python.pydev.ui.category.source,Pydev - Editor,Pydev editor category,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SESSION 2011-05-23 17:56:30.139 -----------------------------------------------
+eclipse.buildId=M20100211-1343
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=pt_BR
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.jface 2 0 2011-05-23 17:56:54.664
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2011-05-23 17:56:54.664
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(com.python.pydev.analysis.actions.pyGlobalsBrowserWorkbench,Python Show Class Browser,
+		Show Class Browser,
+		Category(org.python.pydev.ui.category.source,Pydev - Editor,Pydev editor category,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SESSION 2011-07-13 00:37:41.960 -----------------------------------------------
+eclipse.buildId=M20100211-1343
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=pt_BR
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.jface 2 0 2011-07-13 00:39:22.352
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2011-07-13 00:39:22.352
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(com.python.pydev.analysis.actions.pyGlobalsBrowserWorkbench,Python Show Class Browser,
+		Show Class Browser,
+		Category(org.python.pydev.ui.category.source,Pydev - Editor,Pydev editor category,true),
+		ActionDelegateHandlerProxy(null,com.python.pydev.analysis.actions.PyGlobalsBrowserWorkbench),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SESSION 2011-07-30 11:56:11.206 -----------------------------------------------
+eclipse.buildId=M20100211-1343
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=pt_BR
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.jface 2 0 2011-07-30 11:56:33.334
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2011-07-30 11:56:33.335
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(com.python.pydev.analysis.actions.pyGlobalsBrowserWorkbench,Python Show Class Browser,
+		Show Class Browser,
+		Category(org.python.pydev.ui.category.source,Pydev - Editor,Pydev editor category,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SESSION 2011-08-24 16:23:21.224 -----------------------------------------------
+eclipse.buildId=M20100211-1343
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=pt_BR
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.jface 2 0 2011-08-24 16:23:52.516
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2011-08-24 16:23:52.516
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(com.python.pydev.analysis.actions.pyGlobalsBrowserWorkbench,Python Show Class Browser,
+		Show Class Browser,
+		Category(org.python.pydev.ui.category.source,Pydev - Editor,Pydev editor category,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SESSION 2011-10-21 22:53:27.006 -----------------------------------------------
+eclipse.buildId=M20100211-1343
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=pt_BR
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.jface 2 0 2011-10-21 22:53:49.024
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2011-10-21 22:53:49.024
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(com.python.pydev.analysis.actions.pyGlobalsBrowserWorkbench,Python Show Class Browser,
+		Show Class Browser,
+		Category(org.python.pydev.ui.category.source,Pydev - Editor,Pydev editor category,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SESSION 2011-10-24 21:13:28.225 -----------------------------------------------
+eclipse.buildId=M20100211-1343
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=pt_BR
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.core.resources 2 10035 2011-10-24 21:13:31.452
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jface 2 0 2011-10-24 21:13:48.759
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2011-10-24 21:13:48.759
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(com.python.pydev.analysis.actions.pyGlobalsBrowserWorkbench,Python Show Class Browser,
+		Show Class Browser,
+		Category(org.python.pydev.ui.category.source,Pydev - Editor,Pydev editor category,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.ui 4 0 2011-10-26 00:22:45.118
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.ui.internal.console.ConsoleView$6.mouseDown(ConsoleView.java:482)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:179)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1176)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3493)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3112)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2405)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2369)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2221)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:500)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:493)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:113)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:194)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:368)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:616)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:559)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:514)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1311)
+
+!ENTRY org.eclipse.ui 4 0 2011-10-30 21:50:06.037
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.IllegalArgumentException: Argument not valid)
+	at org.eclipse.swt.SWT.error(SWT.java:3884)
+	at org.eclipse.swt.SWT.error(SWT.java:3799)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:137)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3468)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3115)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2405)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2369)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2221)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:500)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:493)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:113)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:194)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:368)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:616)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:559)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:514)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1311)
+Caused by: java.lang.IllegalArgumentException: Argument not valid
+	at org.eclipse.swt.SWT.error(SWT.java:3865)
+	at org.eclipse.swt.SWT.error(SWT.java:3799)
+	at org.eclipse.swt.SWT.error(SWT.java:3770)
+	at org.eclipse.swt.custom.StyledText.setStyleRanges(StyledText.java:9035)
+	at org.eclipse.swt.custom.StyledText.setStyleRanges(StyledText.java:9127)
+	at org.eclipse.jface.text.TextPresentation.applyTextPresentation(TextPresentation.java:55)
+	at org.eclipse.jface.text.DefaultInformationControl.setInformation(DefaultInformationControl.java:342)
+	at org.eclipse.jface.text.AbstractInformationControlManager.internalShowInformationControl(AbstractInformationControlManager.java:1172)
+	at org.eclipse.jface.text.AbstractInformationControlManager.presentInformation(AbstractInformationControlManager.java:1139)
+	at org.eclipse.jface.text.AbstractHoverInformationControlManager.presentInformation(AbstractHoverInformationControlManager.java:902)
+	at org.eclipse.jface.text.TextViewerHoverManager.doPresentInformation(TextViewerHoverManager.java:243)
+	at org.eclipse.jface.text.TextViewerHoverManager$5.run(TextViewerHoverManager.java:233)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:134)
+	... 22 more
+
+!ENTRY org.python.pydev 4 4 2011-10-30 22:18:54.772
+!MESSAGE org.eclipse.jface.text.BadLocationException
+!STACK 0
+java.lang.RuntimeException: org.eclipse.jface.text.BadLocationException
+	at org.python.pydev.core.docutils.ParsingUtils$IDocumentParsingUtils.charAt(ParsingUtils.java:125)
+	at org.python.pydev.core.docutils.ParsingUtils.eatPar(ParsingUtils.java:353)
+	at org.python.pydev.core.docutils.ParsingUtils.eatPar(ParsingUtils.java:364)
+	at com.python.pydev.analysis.tabnanny.TabNannyDocIterator.internalBuildNext(TabNannyDocIterator.java:107)
+	at com.python.pydev.analysis.tabnanny.TabNannyDocIterator.buildNext(TabNannyDocIterator.java:51)
+	at com.python.pydev.analysis.tabnanny.TabNannyDocIterator.next(TabNannyDocIterator.java:46)
+	at com.python.pydev.analysis.tabnanny.TabNanny.analyzeDoc(TabNanny.java:49)
+	at com.python.pydev.analysis.OccurrencesAnalyzer.analyzeDocument(OccurrencesAnalyzer.java:65)
+	at com.python.pydev.analysis.OccurrencesAnalyzer.analyzeDocument(OccurrencesAnalyzer.java:38)
+	at com.python.pydev.analysis.builder.AnalysisBuilderRunnable.doAnalysis(AnalysisBuilderRunnable.java:235)
+	at com.python.pydev.analysis.builder.AbstractAnalysisBuilderRunnable.run(AbstractAnalysisBuilderRunnable.java:145)
+	at org.python.pydev.core.concurrency.RunnableAsJobsPoolThread$1.run(RunnableAsJobsPoolThread.java:97)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: org.eclipse.jface.text.BadLocationException
+	at org.eclipse.jface.text.AbstractDocument.getChar(AbstractDocument.java:772)
+	at org.eclipse.core.internal.filebuffers.SynchronizableDocument.getChar(SynchronizableDocument.java:153)
+	at org.python.pydev.core.docutils.ParsingUtils$IDocumentParsingUtils.charAt(ParsingUtils.java:123)
+	... 12 more
+!SESSION 2011-11-11 09:44:53.739 -----------------------------------------------
+eclipse.buildId=M20100211-1343
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=pt_BR
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.jface 2 0 2011-11-11 09:45:16.451
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2011-11-11 09:45:16.451
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(com.python.pydev.analysis.actions.pyGlobalsBrowserWorkbench,Python Show Class Browser,
+		Show Class Browser,
+		Category(org.python.pydev.ui.category.source,Pydev - Editor,Pydev editor category,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.python.pydev.debug 4 4 2011-11-11 09:47:58.107
+!MESSAGE Unexpected getMarkers error (recovered properly)
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Resource '/Heuristica-Mestrado/src/Instancia 1/heuristica_grasp_1b.py' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:319)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:196)
+	at org.eclipse.core.internal.resources.Resource.findMarkers(Resource.java:911)
+	at org.python.pydev.debug.ui.actions.AbstractBreakpointRulerAction.getMarkersFromEditorResource(AbstractBreakpointRulerAction.java:295)
+	at org.python.pydev.debug.ui.actions.BreakpointRulerAction.getMarkersFromCurrentFile(BreakpointRulerAction.java:90)
+	at org.python.pydev.debug.ui.actions.BreakpointRulerAction.update(BreakpointRulerAction.java:69)
+	at org.eclipse.ui.texteditor.AbstractRulerActionDelegate.update(AbstractRulerActionDelegate.java:132)
+	at org.eclipse.ui.texteditor.AbstractRulerActionDelegate.setActiveEditor(AbstractRulerActionDelegate.java:89)
+	at org.eclipse.ui.internal.EditorPluginAction.editorChanged(EditorPluginAction.java:75)
+	at org.eclipse.ui.internal.EditorPluginAction.<init>(EditorPluginAction.java:34)
+	at org.eclipse.ui.internal.ActionDescriptor.createAction(ActionDescriptor.java:262)
+	at org.eclipse.ui.internal.ActionDescriptor.<init>(ActionDescriptor.java:176)
+	at org.eclipse.ui.internal.ViewerActionBuilder.createActionDescriptor(ViewerActionBuilder.java:53)
+	at org.eclipse.ui.internal.PluginActionBuilder.readElement(PluginActionBuilder.java:161)
+	at org.eclipse.ui.internal.ViewerActionBuilder.readElement(ViewerActionBuilder.java:88)
+	at org.eclipse.ui.internal.registry.RegistryReader.readElements(RegistryReader.java:144)
+	at org.eclipse.ui.internal.registry.RegistryReader.readElementChildren(RegistryReader.java:133)
+	at org.eclipse.ui.internal.PluginActionBuilder.readElement(PluginActionBuilder.java:144)
+	at org.eclipse.ui.internal.ViewerActionBuilder.readElement(ViewerActionBuilder.java:88)
+	at org.eclipse.ui.internal.registry.RegistryReader.readElements(RegistryReader.java:144)
+	at org.eclipse.ui.internal.registry.RegistryReader.readExtension(RegistryReader.java:155)
+	at org.eclipse.ui.internal.registry.RegistryReader.readRegistry(RegistryReader.java:176)
+	at org.eclipse.ui.internal.PluginActionBuilder.readContributions(PluginActionBuilder.java:115)
+	at org.eclipse.ui.internal.ViewerActionBuilder.readViewerContributions(ViewerActionBuilder.java:106)
+	at org.eclipse.ui.internal.PopupMenuExtender.readStaticActionsFor(PopupMenuExtender.java:487)
+	at org.eclipse.ui.internal.PopupMenuExtender.<init>(PopupMenuExtender.java:133)
+	at org.eclipse.ui.internal.PartSite.registerContextMenu(PartSite.java:113)
+	at org.eclipse.ui.internal.EditorSite.registerContextMenu(EditorSite.java:165)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.createPartControl(AbstractTextEditor.java:3440)
+	at org.eclipse.ui.texteditor.StatusTextEditor.createPartControl(StatusTextEditor.java:53)
+	at org.eclipse.ui.texteditor.AbstractDecoratedTextEditor.createPartControl(AbstractDecoratedTextEditor.java:427)
+	at org.python.pydev.editor.codefolding.PyEditProjection.createPartControl(PyEditProjection.java:71)
+	at org.python.pydev.editor.PyEdit.createPartControl(PyEdit.java:314)
+	at org.eclipse.ui.internal.EditorReference.createPartHelper(EditorReference.java:662)
+	at org.eclipse.ui.internal.EditorReference.createPart(EditorReference.java:462)
+	at org.eclipse.ui.internal.WorkbenchPartReference.getPart(WorkbenchPartReference.java:595)
+	at org.eclipse.ui.internal.EditorReference.getEditor(EditorReference.java:286)
+	at org.python.pydev.editor.PyEditTitle$7.run(PyEditTitle.java:587)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:134)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3468)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3115)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2405)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2369)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2221)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:500)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:493)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:113)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:194)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:368)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:616)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:559)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:514)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1311)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2011-11-11 09:47:58.109
+!MESSAGE Resource '/Heuristica-Mestrado/src/Instancia 1/heuristica_grasp_1b.py' does not exist.
+
+!ENTRY org.python.pydev.debug 4 4 2011-11-11 10:20:41.646
+!MESSAGE Unexpected getMarkers error (recovered properly)
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Resource '/Heuristica-Mestrado/src/Instancia 1/heuristica_grasp_2a.py' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:319)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:196)
+	at org.eclipse.core.internal.resources.Resource.findMarkers(Resource.java:911)
+	at org.python.pydev.debug.ui.actions.AbstractBreakpointRulerAction.getMarkersFromEditorResource(AbstractBreakpointRulerAction.java:295)
+	at org.python.pydev.debug.ui.actions.BreakpointRulerAction.getMarkersFromCurrentFile(BreakpointRulerAction.java:90)
+	at org.python.pydev.debug.ui.actions.BreakpointRulerAction.update(BreakpointRulerAction.java:69)
+	at org.eclipse.ui.texteditor.AbstractRulerActionDelegate.update(AbstractRulerActionDelegate.java:132)
+	at org.eclipse.ui.texteditor.AbstractRulerActionDelegate.setActiveEditor(AbstractRulerActionDelegate.java:89)
+	at org.eclipse.ui.internal.EditorPluginAction.editorChanged(EditorPluginAction.java:75)
+	at org.eclipse.ui.internal.EditorPluginAction.<init>(EditorPluginAction.java:34)
+	at org.eclipse.ui.internal.ActionDescriptor.createAction(ActionDescriptor.java:262)
+	at org.eclipse.ui.internal.ActionDescriptor.<init>(ActionDescriptor.java:176)
+	at org.eclipse.ui.internal.ViewerActionBuilder.createActionDescriptor(ViewerActionBuilder.java:53)
+	at org.eclipse.ui.internal.PluginActionBuilder.readElement(PluginActionBuilder.java:161)
+	at org.eclipse.ui.internal.ViewerActionBuilder.readElement(ViewerActionBuilder.java:88)
+	at org.eclipse.ui.internal.registry.RegistryReader.readElements(RegistryReader.java:144)
+	at org.eclipse.ui.internal.registry.RegistryReader.readElementChildren(RegistryReader.java:133)
+	at org.eclipse.ui.internal.PluginActionBuilder.readElement(PluginActionBuilder.java:144)
+	at org.eclipse.ui.internal.ViewerActionBuilder.readElement(ViewerActionBuilder.java:88)
+	at org.eclipse.ui.internal.registry.RegistryReader.readElements(RegistryReader.java:144)
+	at org.eclipse.ui.internal.registry.RegistryReader.readExtension(RegistryReader.java:155)
+	at org.eclipse.ui.internal.registry.RegistryReader.readRegistry(RegistryReader.java:176)
+	at org.eclipse.ui.internal.PluginActionBuilder.readContributions(PluginActionBuilder.java:115)
+	at org.eclipse.ui.internal.ViewerActionBuilder.readViewerContributions(ViewerActionBuilder.java:106)
+	at org.eclipse.ui.internal.PopupMenuExtender.readStaticActionsFor(PopupMenuExtender.java:487)
+	at org.eclipse.ui.internal.PopupMenuExtender.<init>(PopupMenuExtender.java:133)
+	at org.eclipse.ui.internal.PartSite.registerContextMenu(PartSite.java:113)
+	at org.eclipse.ui.internal.EditorSite.registerContextMenu(EditorSite.java:165)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.createPartControl(AbstractTextEditor.java:3440)
+	at org.eclipse.ui.texteditor.StatusTextEditor.createPartControl(StatusTextEditor.java:53)
+	at org.eclipse.ui.texteditor.AbstractDecoratedTextEditor.createPartControl(AbstractDecoratedTextEditor.java:427)
+	at org.python.pydev.editor.codefolding.PyEditProjection.createPartControl(PyEditProjection.java:71)
+	at org.python.pydev.editor.PyEdit.createPartControl(PyEdit.java:314)
+	at org.eclipse.ui.internal.EditorReference.createPartHelper(EditorReference.java:662)
+	at org.eclipse.ui.internal.EditorReference.createPart(EditorReference.java:462)
+	at org.eclipse.ui.internal.WorkbenchPartReference.getPart(WorkbenchPartReference.java:595)
+	at org.eclipse.ui.internal.EditorReference.getEditor(EditorReference.java:286)
+	at org.python.pydev.editor.PyEditTitle$7.run(PyEditTitle.java:587)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:134)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3468)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3115)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2405)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2369)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2221)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:500)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:493)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:113)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:194)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:368)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:616)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:559)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:514)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1311)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2011-11-11 10:20:41.647
+!MESSAGE Resource '/Heuristica-Mestrado/src/Instancia 1/heuristica_grasp_2a.py' does not exist.
+
+!ENTRY org.python.pydev.debug 4 4 2011-11-11 10:21:13.827
+!MESSAGE Unexpected getMarkers error (recovered properly)
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Resource '/Heuristica-Mestrado/src/Instancia 1/heuristica_grasp_1a.py' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:319)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:196)
+	at org.eclipse.core.internal.resources.Resource.findMarkers(Resource.java:911)
+	at org.python.pydev.debug.ui.actions.AbstractBreakpointRulerAction.getMarkersFromEditorResource(AbstractBreakpointRulerAction.java:295)
+	at org.python.pydev.debug.ui.actions.BreakpointRulerAction.getMarkersFromCurrentFile(BreakpointRulerAction.java:90)
+	at org.python.pydev.debug.ui.actions.BreakpointRulerAction.update(BreakpointRulerAction.java:69)
+	at org.eclipse.ui.texteditor.AbstractRulerActionDelegate.update(AbstractRulerActionDelegate.java:132)
+	at org.eclipse.ui.texteditor.AbstractRulerActionDelegate.setActiveEditor(AbstractRulerActionDelegate.java:89)
+	at org.eclipse.ui.internal.EditorPluginAction.editorChanged(EditorPluginAction.java:75)
+	at org.eclipse.ui.internal.EditorPluginAction.<init>(EditorPluginAction.java:34)
+	at org.eclipse.ui.internal.ActionDescriptor.createAction(ActionDescriptor.java:262)
+	at org.eclipse.ui.internal.ActionDescriptor.<init>(ActionDescriptor.java:176)
+	at org.eclipse.ui.internal.ViewerActionBuilder.createActionDescriptor(ViewerActionBuilder.java:53)
+	at org.eclipse.ui.internal.PluginActionBuilder.readElement(PluginActionBuilder.java:161)
+	at org.eclipse.ui.internal.ViewerActionBuilder.readElement(ViewerActionBuilder.java:88)
+	at org.eclipse.ui.internal.registry.RegistryReader.readElements(RegistryReader.java:144)
+	at org.eclipse.ui.internal.registry.RegistryReader.readElementChildren(RegistryReader.java:133)
+	at org.eclipse.ui.internal.PluginActionBuilder.readElement(PluginActionBuilder.java:144)
+	at org.eclipse.ui.internal.ViewerActionBuilder.readElement(ViewerActionBuilder.java:88)
+	at org.eclipse.ui.internal.registry.RegistryReader.readElements(RegistryReader.java:144)
+	at org.eclipse.ui.internal.registry.RegistryReader.readExtension(RegistryReader.java:155)
+	at org.eclipse.ui.internal.registry.RegistryReader.readRegistry(RegistryReader.java:176)
+	at org.eclipse.ui.internal.PluginActionBuilder.readContributions(PluginActionBuilder.java:115)
+	at org.eclipse.ui.internal.ViewerActionBuilder.readViewerContributions(ViewerActionBuilder.java:106)
+	at org.eclipse.ui.internal.PopupMenuExtender.readStaticActionsFor(PopupMenuExtender.java:487)
+	at org.eclipse.ui.internal.PopupMenuExtender.<init>(PopupMenuExtender.java:133)
+	at org.eclipse.ui.internal.PartSite.registerContextMenu(PartSite.java:113)
+	at org.eclipse.ui.internal.EditorSite.registerContextMenu(EditorSite.java:165)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.createPartControl(AbstractTextEditor.java:3440)
+	at org.eclipse.ui.texteditor.StatusTextEditor.createPartControl(StatusTextEditor.java:53)
+	at org.eclipse.ui.texteditor.AbstractDecoratedTextEditor.createPartControl(AbstractDecoratedTextEditor.java:427)
+	at org.python.pydev.editor.codefolding.PyEditProjection.createPartControl(PyEditProjection.java:71)
+	at org.python.pydev.editor.PyEdit.createPartControl(PyEdit.java:314)
+	at org.eclipse.ui.internal.EditorReference.createPartHelper(EditorReference.java:662)
+	at org.eclipse.ui.internal.EditorReference.createPart(EditorReference.java:462)
+	at org.eclipse.ui.internal.WorkbenchPartReference.getPart(WorkbenchPartReference.java:595)
+	at org.eclipse.ui.internal.EditorReference.getEditor(EditorReference.java:286)
+	at org.python.pydev.editor.PyEditTitle$7.run(PyEditTitle.java:587)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:134)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3468)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3115)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2405)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2369)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2221)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:500)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:493)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:113)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:194)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:368)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:616)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:559)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:514)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1311)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2011-11-11 10:21:13.828
+!MESSAGE Resource '/Heuristica-Mestrado/src/Instancia 1/heuristica_grasp_1a.py' does not exist.
+
+!ENTRY org.python.pydev.debug 4 4 2011-11-11 10:26:40.391
+!MESSAGE Unexpected getMarkers error (recovered properly)
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Resource '/Heuristica-Mestrado/src/Instancia 1/heuristica_grasp_2c.py' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:319)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:196)
+	at org.eclipse.core.internal.resources.Resource.findMarkers(Resource.java:911)
+	at org.python.pydev.debug.ui.actions.AbstractBreakpointRulerAction.getMarkersFromEditorResource(AbstractBreakpointRulerAction.java:295)
+	at org.python.pydev.debug.ui.actions.BreakpointRulerAction.getMarkersFromCurrentFile(BreakpointRulerAction.java:90)
+	at org.python.pydev.debug.ui.actions.BreakpointRulerAction.update(BreakpointRulerAction.java:69)
+	at org.eclipse.ui.texteditor.AbstractRulerActionDelegate.update(AbstractRulerActionDelegate.java:132)
+	at org.eclipse.ui.texteditor.AbstractRulerActionDelegate.setActiveEditor(AbstractRulerActionDelegate.java:89)
+	at org.eclipse.ui.internal.EditorPluginAction.editorChanged(EditorPluginAction.java:75)
+	at org.eclipse.ui.internal.EditorPluginAction.<init>(EditorPluginAction.java:34)
+	at org.eclipse.ui.internal.ActionDescriptor.createAction(ActionDescriptor.java:262)
+	at org.eclipse.ui.internal.ActionDescriptor.<init>(ActionDescriptor.java:176)
+	at org.eclipse.ui.internal.ViewerActionBuilder.createActionDescriptor(ViewerActionBuilder.java:53)
+	at org.eclipse.ui.internal.PluginActionBuilder.readElement(PluginActionBuilder.java:161)
+	at org.eclipse.ui.internal.ViewerActionBuilder.readElement(ViewerActionBuilder.java:88)
+	at org.eclipse.ui.internal.registry.RegistryReader.readElements(RegistryReader.java:144)
+	at org.eclipse.ui.internal.registry.RegistryReader.readElementChildren(RegistryReader.java:133)
+	at org.eclipse.ui.internal.PluginActionBuilder.readElement(PluginActionBuilder.java:144)
+	at org.eclipse.ui.internal.ViewerActionBuilder.readElement(ViewerActionBuilder.java:88)
+	at org.eclipse.ui.internal.registry.RegistryReader.readElements(RegistryReader.java:144)
+	at org.eclipse.ui.internal.registry.RegistryReader.readExtension(RegistryReader.java:155)
+	at org.eclipse.ui.internal.registry.RegistryReader.readRegistry(RegistryReader.java:176)
+	at org.eclipse.ui.internal.PluginActionBuilder.readContributions(PluginActionBuilder.java:115)
+	at org.eclipse.ui.internal.ViewerActionBuilder.readViewerContributions(ViewerActionBuilder.java:106)
+	at org.eclipse.ui.internal.PopupMenuExtender.readStaticActionsFor(PopupMenuExtender.java:487)
+	at org.eclipse.ui.internal.PopupMenuExtender.<init>(PopupMenuExtender.java:133)
+	at org.eclipse.ui.internal.PartSite.registerContextMenu(PartSite.java:113)
+	at org.eclipse.ui.internal.EditorSite.registerContextMenu(EditorSite.java:165)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.createPartControl(AbstractTextEditor.java:3440)
+	at org.eclipse.ui.texteditor.StatusTextEditor.createPartControl(StatusTextEditor.java:53)
+	at org.eclipse.ui.texteditor.AbstractDecoratedTextEditor.createPartControl(AbstractDecoratedTextEditor.java:427)
+	at org.python.pydev.editor.codefolding.PyEditProjection.createPartControl(PyEditProjection.java:71)
+	at org.python.pydev.editor.PyEdit.createPartControl(PyEdit.java:314)
+	at org.eclipse.ui.internal.EditorReference.createPartHelper(EditorReference.java:662)
+	at org.eclipse.ui.internal.EditorReference.createPart(EditorReference.java:462)
+	at org.eclipse.ui.internal.WorkbenchPartReference.getPart(WorkbenchPartReference.java:595)
+	at org.eclipse.ui.internal.EditorReference.getEditor(EditorReference.java:286)
+	at org.python.pydev.editor.PyEditTitle$7.run(PyEditTitle.java:587)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:134)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3468)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3115)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2405)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2369)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2221)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:500)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:493)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:113)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:194)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:368)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:616)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:559)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:514)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1311)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2011-11-11 10:26:40.392
+!MESSAGE Resource '/Heuristica-Mestrado/src/Instancia 1/heuristica_grasp_2c.py' does not exist.
+
+!ENTRY org.python.pydev.debug 4 4 2011-11-11 10:27:50.463
+!MESSAGE Unexpected getMarkers error (recovered properly)
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Resource '/Heuristica-Mestrado/src/Instancia 1/heuristica_grasp_1c.py' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:319)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:196)
+	at org.eclipse.core.internal.resources.Resource.findMarkers(Resource.java:911)
+	at org.python.pydev.debug.ui.actions.AbstractBreakpointRulerAction.getMarkersFromEditorResource(AbstractBreakpointRulerAction.java:295)
+	at org.python.pydev.debug.ui.actions.BreakpointRulerAction.getMarkersFromCurrentFile(BreakpointRulerAction.java:90)
+	at org.python.pydev.debug.ui.actions.BreakpointRulerAction.update(BreakpointRulerAction.java:69)
+	at org.eclipse.ui.texteditor.AbstractRulerActionDelegate.update(AbstractRulerActionDelegate.java:132)
+	at org.eclipse.ui.texteditor.AbstractRulerActionDelegate.setActiveEditor(AbstractRulerActionDelegate.java:89)
+	at org.eclipse.ui.internal.EditorPluginAction.editorChanged(EditorPluginAction.java:75)
+	at org.eclipse.ui.internal.EditorPluginAction.<init>(EditorPluginAction.java:34)
+	at org.eclipse.ui.internal.ActionDescriptor.createAction(ActionDescriptor.java:262)
+	at org.eclipse.ui.internal.ActionDescriptor.<init>(ActionDescriptor.java:176)
+	at org.eclipse.ui.internal.ViewerActionBuilder.createActionDescriptor(ViewerActionBuilder.java:53)
+	at org.eclipse.ui.internal.PluginActionBuilder.readElement(PluginActionBuilder.java:161)
+	at org.eclipse.ui.internal.ViewerActionBuilder.readElement(ViewerActionBuilder.java:88)
+	at org.eclipse.ui.internal.registry.RegistryReader.readElements(RegistryReader.java:144)
+	at org.eclipse.ui.internal.registry.RegistryReader.readElementChildren(RegistryReader.java:133)
+	at org.eclipse.ui.internal.PluginActionBuilder.readElement(PluginActionBuilder.java:144)
+	at org.eclipse.ui.internal.ViewerActionBuilder.readElement(ViewerActionBuilder.java:88)
+	at org.eclipse.ui.internal.registry.RegistryReader.readElements(RegistryReader.java:144)
+	at org.eclipse.ui.internal.registry.RegistryReader.readExtension(RegistryReader.java:155)
+	at org.eclipse.ui.internal.registry.RegistryReader.readRegistry(RegistryReader.java:176)
+	at org.eclipse.ui.internal.PluginActionBuilder.readContributions(PluginActionBuilder.java:115)
+	at org.eclipse.ui.internal.ViewerActionBuilder.readViewerContributions(ViewerActionBuilder.java:106)
+	at org.eclipse.ui.internal.PopupMenuExtender.readStaticActionsFor(PopupMenuExtender.java:487)
+	at org.eclipse.ui.internal.PopupMenuExtender.<init>(PopupMenuExtender.java:133)
+	at org.eclipse.ui.internal.PartSite.registerContextMenu(PartSite.java:113)
+	at org.eclipse.ui.internal.EditorSite.registerContextMenu(EditorSite.java:165)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.createPartControl(AbstractTextEditor.java:3440)
+	at org.eclipse.ui.texteditor.StatusTextEditor.createPartControl(StatusTextEditor.java:53)
+	at org.eclipse.ui.texteditor.AbstractDecoratedTextEditor.createPartControl(AbstractDecoratedTextEditor.java:427)
+	at org.python.pydev.editor.codefolding.PyEditProjection.createPartControl(PyEditProjection.java:71)
+	at org.python.pydev.editor.PyEdit.createPartControl(PyEdit.java:314)
+	at org.eclipse.ui.internal.EditorReference.createPartHelper(EditorReference.java:662)
+	at org.eclipse.ui.internal.EditorReference.createPart(EditorReference.java:462)
+	at org.eclipse.ui.internal.WorkbenchPartReference.getPart(WorkbenchPartReference.java:595)
+	at org.eclipse.ui.internal.EditorReference.getEditor(EditorReference.java:286)
+	at org.python.pydev.editor.PyEditTitle$7.run(PyEditTitle.java:587)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:134)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3468)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3115)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2405)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2369)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2221)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:500)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:493)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:113)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:194)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:368)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:616)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:559)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:514)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1311)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2011-11-11 10:27:50.463
+!MESSAGE Resource '/Heuristica-Mestrado/src/Instancia 1/heuristica_grasp_1c.py' does not exist.
+
+!ENTRY org.python.pydev.debug 4 4 2011-11-11 11:24:34.528
+!MESSAGE Unexpected getMarkers error (recovered properly)
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Resource '/Heuristica-Mestrado/src/Instancia 2/heuristica_grasp_1a.py' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:319)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:196)
+	at org.eclipse.core.internal.resources.Resource.findMarkers(Resource.java:911)
+	at org.python.pydev.debug.ui.actions.AbstractBreakpointRulerAction.getMarkersFromEditorResource(AbstractBreakpointRulerAction.java:295)
+	at org.python.pydev.debug.ui.actions.BreakpointRulerAction.getMarkersFromCurrentFile(BreakpointRulerAction.java:90)
+	at org.python.pydev.debug.ui.actions.BreakpointRulerAction.update(BreakpointRulerAction.java:69)
+	at org.eclipse.ui.texteditor.AbstractRulerActionDelegate.update(AbstractRulerActionDelegate.java:132)
+	at org.eclipse.ui.texteditor.AbstractRulerActionDelegate.setActiveEditor(AbstractRulerActionDelegate.java:89)
+	at org.eclipse.ui.internal.EditorPluginAction.editorChanged(EditorPluginAction.java:75)
+	at org.eclipse.ui.internal.EditorPluginAction.<init>(EditorPluginAction.java:34)
+	at org.eclipse.ui.internal.ActionDescriptor.createAction(ActionDescriptor.java:262)
+	at org.eclipse.ui.internal.ActionDescriptor.<init>(ActionDescriptor.java:176)
+	at org.eclipse.ui.internal.ViewerActionBuilder.createActionDescriptor(ViewerActionBuilder.java:53)
+	at org.eclipse.ui.internal.PluginActionBuilder.readElement(PluginActionBuilder.java:161)
+	at org.eclipse.ui.internal.ViewerActionBuilder.readElement(ViewerActionBuilder.java:88)
+	at org.eclipse.ui.internal.registry.RegistryReader.readElements(RegistryReader.java:144)
+	at org.eclipse.ui.internal.registry.RegistryReader.readElementChildren(RegistryReader.java:133)
+	at org.eclipse.ui.internal.PluginActionBuilder.readElement(PluginActionBuilder.java:144)
+	at org.eclipse.ui.internal.ViewerActionBuilder.readElement(ViewerActionBuilder.java:88)
+	at org.eclipse.ui.internal.registry.RegistryReader.readElements(RegistryReader.java:144)
+	at org.eclipse.ui.internal.registry.RegistryReader.readExtension(RegistryReader.java:155)
+	at org.eclipse.ui.internal.registry.RegistryReader.readRegistry(RegistryReader.java:176)
+	at org.eclipse.ui.internal.PluginActionBuilder.readContributions(PluginActionBuilder.java:115)
+	at org.eclipse.ui.internal.ViewerActionBuilder.readViewerContributions(ViewerActionBuilder.java:106)
+	at org.eclipse.ui.internal.PopupMenuExtender.readStaticActionsFor(PopupMenuExtender.java:487)
+	at org.eclipse.ui.internal.PopupMenuExtender.<init>(PopupMenuExtender.java:133)
+	at org.eclipse.ui.internal.PartSite.registerContextMenu(PartSite.java:113)
+	at org.eclipse.ui.internal.EditorSite.registerContextMenu(EditorSite.java:165)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.createPartControl(AbstractTextEditor.java:3440)
+	at org.eclipse.ui.texteditor.StatusTextEditor.createPartControl(StatusTextEditor.java:53)
+	at org.eclipse.ui.texteditor.AbstractDecoratedTextEditor.createPartControl(AbstractDecoratedTextEditor.java:427)
+	at org.python.pydev.editor.codefolding.PyEditProjection.createPartControl(PyEditProjection.java:71)
+	at org.python.pydev.editor.PyEdit.createPartControl(PyEdit.java:314)
+	at org.eclipse.ui.internal.EditorReference.createPartHelper(EditorReference.java:662)
+	at org.eclipse.ui.internal.EditorReference.createPart(EditorReference.java:462)
+	at org.eclipse.ui.internal.WorkbenchPartReference.getPart(WorkbenchPartReference.java:595)
+	at org.eclipse.ui.internal.EditorReference.getEditor(EditorReference.java:286)
+	at org.python.pydev.editor.PyEditTitle$7.run(PyEditTitle.java:587)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:134)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3468)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3115)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2405)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2369)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2221)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:500)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:493)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:113)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:194)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:368)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:616)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:559)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:514)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1311)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2011-11-11 11:24:34.528
+!MESSAGE Resource '/Heuristica-Mestrado/src/Instancia 2/heuristica_grasp_1a.py' does not exist.
+
+!ENTRY org.python.pydev.debug 4 4 2011-11-11 11:45:04.124
+!MESSAGE Unexpected getMarkers error (recovered properly)
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Resource '/Heuristica-Mestrado/src/Instancia 2/heuristica_grasp_2a.py' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:319)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:196)
+	at org.eclipse.core.internal.resources.Resource.findMarkers(Resource.java:911)
+	at org.python.pydev.debug.ui.actions.AbstractBreakpointRulerAction.getMarkersFromEditorResource(AbstractBreakpointRulerAction.java:295)
+	at org.python.pydev.debug.ui.actions.BreakpointRulerAction.getMarkersFromCurrentFile(BreakpointRulerAction.java:90)
+	at org.python.pydev.debug.ui.actions.BreakpointRulerAction.update(BreakpointRulerAction.java:69)
+	at org.eclipse.ui.texteditor.AbstractRulerActionDelegate.update(AbstractRulerActionDelegate.java:132)
+	at org.eclipse.ui.texteditor.AbstractRulerActionDelegate.setActiveEditor(AbstractRulerActionDelegate.java:89)
+	at org.eclipse.ui.internal.EditorPluginAction.editorChanged(EditorPluginAction.java:75)
+	at org.eclipse.ui.internal.EditorPluginAction.<init>(EditorPluginAction.java:34)
+	at org.eclipse.ui.internal.ActionDescriptor.createAction(ActionDescriptor.java:262)
+	at org.eclipse.ui.internal.ActionDescriptor.<init>(ActionDescriptor.java:176)
+	at org.eclipse.ui.internal.ViewerActionBuilder.createActionDescriptor(ViewerActionBuilder.java:53)
+	at org.eclipse.ui.internal.PluginActionBuilder.readElement(PluginActionBuilder.java:161)
+	at org.eclipse.ui.internal.ViewerActionBuilder.readElement(ViewerActionBuilder.java:88)
+	at org.eclipse.ui.internal.registry.RegistryReader.readElements(RegistryReader.java:144)
+	at org.eclipse.ui.internal.registry.RegistryReader.readElementChildren(RegistryReader.java:133)
+	at org.eclipse.ui.internal.PluginActionBuilder.readElement(PluginActionBuilder.java:144)
+	at org.eclipse.ui.internal.ViewerActionBuilder.readElement(ViewerActionBuilder.java:88)
+	at org.eclipse.ui.internal.registry.RegistryReader.readElements(RegistryReader.java:144)
+	at org.eclipse.ui.internal.registry.RegistryReader.readExtension(RegistryReader.java:155)
+	at org.eclipse.ui.internal.registry.RegistryReader.readRegistry(RegistryReader.java:176)
+	at org.eclipse.ui.internal.PluginActionBuilder.readContributions(PluginActionBuilder.java:115)
+	at org.eclipse.ui.internal.ViewerActionBuilder.readViewerContributions(ViewerActionBuilder.java:106)
+	at org.eclipse.ui.internal.PopupMenuExtender.readStaticActionsFor(PopupMenuExtender.java:487)
+	at org.eclipse.ui.internal.PopupMenuExtender.<init>(PopupMenuExtender.java:133)
+	at org.eclipse.ui.internal.PartSite.registerContextMenu(PartSite.java:113)
+	at org.eclipse.ui.internal.EditorSite.registerContextMenu(EditorSite.java:165)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.createPartControl(AbstractTextEditor.java:3440)
+	at org.eclipse.ui.texteditor.StatusTextEditor.createPartControl(StatusTextEditor.java:53)
+	at org.eclipse.ui.texteditor.AbstractDecoratedTextEditor.createPartControl(AbstractDecoratedTextEditor.java:427)
+	at org.python.pydev.editor.codefolding.PyEditProjection.createPartControl(PyEditProjection.java:71)
+	at org.python.pydev.editor.PyEdit.createPartControl(PyEdit.java:314)
+	at org.eclipse.ui.internal.EditorReference.createPartHelper(EditorReference.java:662)
+	at org.eclipse.ui.internal.EditorReference.createPart(EditorReference.java:462)
+	at org.eclipse.ui.internal.WorkbenchPartReference.getPart(WorkbenchPartReference.java:595)
+	at org.eclipse.ui.internal.EditorReference.getEditor(EditorReference.java:286)
+	at org.python.pydev.editor.PyEditTitle$7.run(PyEditTitle.java:587)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:134)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3468)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3115)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2405)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2369)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2221)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:500)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:493)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:113)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:194)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:368)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:616)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:559)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:514)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1311)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2011-11-11 11:45:04.125
+!MESSAGE Resource '/Heuristica-Mestrado/src/Instancia 2/heuristica_grasp_2a.py' does not exist.
+
+!ENTRY org.python.pydev.debug 4 4 2011-11-12 09:54:49.665
+!MESSAGE Unexpected getMarkers error (recovered properly)
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Resource '/Heuristica-Mestrado/src/Instancia 2/heuristica_grasp_2c.py' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:319)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:196)
+	at org.eclipse.core.internal.resources.Resource.findMarkers(Resource.java:911)
+	at org.python.pydev.debug.ui.actions.AbstractBreakpointRulerAction.getMarkersFromEditorResource(AbstractBreakpointRulerAction.java:295)
+	at org.python.pydev.debug.ui.actions.BreakpointRulerAction.getMarkersFromCurrentFile(BreakpointRulerAction.java:90)
+	at org.python.pydev.debug.ui.actions.BreakpointRulerAction.update(BreakpointRulerAction.java:69)
+	at org.eclipse.ui.texteditor.AbstractRulerActionDelegate.update(AbstractRulerActionDelegate.java:132)
+	at org.eclipse.ui.texteditor.AbstractRulerActionDelegate.setActiveEditor(AbstractRulerActionDelegate.java:89)
+	at org.eclipse.ui.internal.EditorPluginAction.editorChanged(EditorPluginAction.java:75)
+	at org.eclipse.ui.internal.EditorPluginAction.<init>(EditorPluginAction.java:34)
+	at org.eclipse.ui.internal.ActionDescriptor.createAction(ActionDescriptor.java:262)
+	at org.eclipse.ui.internal.ActionDescriptor.<init>(ActionDescriptor.java:176)
+	at org.eclipse.ui.internal.ViewerActionBuilder.createActionDescriptor(ViewerActionBuilder.java:53)
+	at org.eclipse.ui.internal.PluginActionBuilder.readElement(PluginActionBuilder.java:161)
+	at org.eclipse.ui.internal.ViewerActionBuilder.readElement(ViewerActionBuilder.java:88)
+	at org.eclipse.ui.internal.registry.RegistryReader.readElements(RegistryReader.java:144)
+	at org.eclipse.ui.internal.registry.RegistryReader.readElementChildren(RegistryReader.java:133)
+	at org.eclipse.ui.internal.PluginActionBuilder.readElement(PluginActionBuilder.java:144)
+	at org.eclipse.ui.internal.ViewerActionBuilder.readElement(ViewerActionBuilder.java:88)
+	at org.eclipse.ui.internal.registry.RegistryReader.readElements(RegistryReader.java:144)
+	at org.eclipse.ui.internal.registry.RegistryReader.readExtension(RegistryReader.java:155)
+	at org.eclipse.ui.internal.registry.RegistryReader.readRegistry(RegistryReader.java:176)
+	at org.eclipse.ui.internal.PluginActionBuilder.readContributions(PluginActionBuilder.java:115)
+	at org.eclipse.ui.internal.ViewerActionBuilder.readViewerContributions(ViewerActionBuilder.java:106)
+	at org.eclipse.ui.internal.PopupMenuExtender.readStaticActionsFor(PopupMenuExtender.java:487)
+	at org.eclipse.ui.internal.PopupMenuExtender.<init>(PopupMenuExtender.java:133)
+	at org.eclipse.ui.internal.PartSite.registerContextMenu(PartSite.java:113)
+	at org.eclipse.ui.internal.EditorSite.registerContextMenu(EditorSite.java:165)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.createPartControl(AbstractTextEditor.java:3440)
+	at org.eclipse.ui.texteditor.StatusTextEditor.createPartControl(StatusTextEditor.java:53)
+	at org.eclipse.ui.texteditor.AbstractDecoratedTextEditor.createPartControl(AbstractDecoratedTextEditor.java:427)
+	at org.python.pydev.editor.codefolding.PyEditProjection.createPartControl(PyEditProjection.java:71)
+	at org.python.pydev.editor.PyEdit.createPartControl(PyEdit.java:314)
+	at org.eclipse.ui.internal.EditorReference.createPartHelper(EditorReference.java:662)
+	at org.eclipse.ui.internal.EditorReference.createPart(EditorReference.java:462)
+	at org.eclipse.ui.internal.WorkbenchPartReference.getPart(WorkbenchPartReference.java:595)
+	at org.eclipse.ui.internal.EditorReference.getEditor(EditorReference.java:286)
+	at org.python.pydev.editor.PyEditTitle$7.run(PyEditTitle.java:587)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:134)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3468)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3115)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2405)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2369)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2221)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:500)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:493)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:113)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:194)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:368)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:616)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:559)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:514)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1311)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2011-11-12 09:54:49.666
+!MESSAGE Resource '/Heuristica-Mestrado/src/Instancia 2/heuristica_grasp_2c.py' does not exist.
+
+!ENTRY org.python.pydev.debug 4 4 2011-11-13 23:29:16.129
+!MESSAGE Unexpected getMarkers error (recovered properly)
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Resource '/Heuristica-Mestrado/src/Instancia 3/heuristica_grasp_1a.py' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:319)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:196)
+	at org.eclipse.core.internal.resources.Resource.findMarkers(Resource.java:911)
+	at org.python.pydev.debug.ui.actions.AbstractBreakpointRulerAction.getMarkersFromEditorResource(AbstractBreakpointRulerAction.java:295)
+	at org.python.pydev.debug.ui.actions.BreakpointRulerAction.getMarkersFromCurrentFile(BreakpointRulerAction.java:90)
+	at org.python.pydev.debug.ui.actions.BreakpointRulerAction.update(BreakpointRulerAction.java:69)
+	at org.eclipse.ui.texteditor.AbstractRulerActionDelegate.update(AbstractRulerActionDelegate.java:132)
+	at org.eclipse.ui.texteditor.AbstractRulerActionDelegate.setActiveEditor(AbstractRulerActionDelegate.java:89)
+	at org.eclipse.ui.internal.EditorPluginAction.editorChanged(EditorPluginAction.java:75)
+	at org.eclipse.ui.internal.EditorPluginAction.<init>(EditorPluginAction.java:34)
+	at org.eclipse.ui.internal.ActionDescriptor.createAction(ActionDescriptor.java:262)
+	at org.eclipse.ui.internal.ActionDescriptor.<init>(ActionDescriptor.java:176)
+	at org.eclipse.ui.internal.ViewerActionBuilder.createActionDescriptor(ViewerActionBuilder.java:53)
+	at org.eclipse.ui.internal.PluginActionBuilder.readElement(PluginActionBuilder.java:161)
+	at org.eclipse.ui.internal.ViewerActionBuilder.readElement(ViewerActionBuilder.java:88)
+	at org.eclipse.ui.internal.registry.RegistryReader.readElements(RegistryReader.java:144)
+	at org.eclipse.ui.internal.registry.RegistryReader.readElementChildren(RegistryReader.java:133)
+	at org.eclipse.ui.internal.PluginActionBuilder.readElement(PluginActionBuilder.java:144)
+	at org.eclipse.ui.internal.ViewerActionBuilder.readElement(ViewerActionBuilder.java:88)
+	at org.eclipse.ui.internal.registry.RegistryReader.readElements(RegistryReader.java:144)
+	at org.eclipse.ui.internal.registry.RegistryReader.readExtension(RegistryReader.java:155)
+	at org.eclipse.ui.internal.registry.RegistryReader.readRegistry(RegistryReader.java:176)
+	at org.eclipse.ui.internal.PluginActionBuilder.readContributions(PluginActionBuilder.java:115)
+	at org.eclipse.ui.internal.ViewerActionBuilder.readViewerContributions(ViewerActionBuilder.java:106)
+	at org.eclipse.ui.internal.PopupMenuExtender.readStaticActionsFor(PopupMenuExtender.java:487)
+	at org.eclipse.ui.internal.PopupMenuExtender.<init>(PopupMenuExtender.java:133)
+	at org.eclipse.ui.internal.PartSite.registerContextMenu(PartSite.java:113)
+	at org.eclipse.ui.internal.EditorSite.registerContextMenu(EditorSite.java:165)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.createPartControl(AbstractTextEditor.java:3440)
+	at org.eclipse.ui.texteditor.StatusTextEditor.createPartControl(StatusTextEditor.java:53)
+	at org.eclipse.ui.texteditor.AbstractDecoratedTextEditor.createPartControl(AbstractDecoratedTextEditor.java:427)
+	at org.python.pydev.editor.codefolding.PyEditProjection.createPartControl(PyEditProjection.java:71)
+	at org.python.pydev.editor.PyEdit.createPartControl(PyEdit.java:314)
+	at org.eclipse.ui.internal.EditorReference.createPartHelper(EditorReference.java:662)
+	at org.eclipse.ui.internal.EditorReference.createPart(EditorReference.java:462)
+	at org.eclipse.ui.internal.WorkbenchPartReference.getPart(WorkbenchPartReference.java:595)
+	at org.eclipse.ui.internal.EditorReference.getEditor(EditorReference.java:286)
+	at org.python.pydev.editor.PyEditTitle$7.run(PyEditTitle.java:587)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:134)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3468)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3115)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2405)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2369)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2221)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:500)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:493)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:113)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:194)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:368)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:616)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:559)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:514)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1311)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2011-11-13 23:29:16.130
+!MESSAGE Resource '/Heuristica-Mestrado/src/Instancia 3/heuristica_grasp_1a.py' does not exist.
+
+!ENTRY org.eclipse.ui 4 0 2011-11-14 10:04:28.263
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.ui.internal.console.ConsoleView$6.mouseDown(ConsoleView.java:482)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:179)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1176)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3493)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3112)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2405)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2369)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2221)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:500)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:493)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:113)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:194)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:368)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:616)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:559)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:514)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1311)
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2011-11-15 17:41:49.771
+!MESSAGE org.tigris.subversion.javahl.ClientException: Não foi possível encontrar uma entrada
+svn: Commit falhou (detalhes a seguir):
+svn: '/home/tiago/Desenvolvimento/Heuristica-Mestrado/src/GRASP/Instancia 3/saida_grasp2.txt' não está sobre controle de versão
+
+!STACK 0
+org.tigris.subversion.svnclientadapter.SVNClientException: org.tigris.subversion.javahl.ClientException: Não foi possível encontrar uma entrada
+svn: Commit falhou (detalhes a seguir):
+svn: '/home/tiago/Desenvolvimento/Heuristica-Mestrado/src/GRASP/Instancia 3/saida_grasp2.txt' não está sobre controle de versão
+
+	at org.tigris.subversion.svnclientadapter.javahl.AbstractJhlClientAdapter.commit(AbstractJhlClientAdapter.java:325)
+	at org.tigris.subversion.subclipse.core.commands.CheckinResourcesCommand$1.run(CheckinResourcesCommand.java:118)
+	at org.tigris.subversion.subclipse.core.SVNProviderPlugin$5.run(SVNProviderPlugin.java:469)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:1800)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:1782)
+	at org.tigris.subversion.subclipse.core.SVNProviderPlugin.run(SVNProviderPlugin.java:464)
+	at org.tigris.subversion.subclipse.core.commands.CheckinResourcesCommand.run(CheckinResourcesCommand.java:94)
+	at org.tigris.subversion.subclipse.core.SVNTeamProvider.checkin(SVNTeamProvider.java:139)
+	at org.tigris.subversion.subclipse.ui.operations.CommitOperation.execute(CommitOperation.java:124)
+	at org.tigris.subversion.subclipse.ui.operations.SVNOperation.run(SVNOperation.java:90)
+	at org.eclipse.team.internal.ui.actions.JobRunnableContext.run(JobRunnableContext.java:144)
+	at org.eclipse.team.internal.ui.actions.JobRunnableContext$ResourceJob.runInWorkspace(JobRunnableContext.java:72)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: org.tigris.subversion.javahl.ClientException: Não foi possível encontrar uma entrada
+svn: Commit falhou (detalhes a seguir):
+svn: '/home/tiago/Desenvolvimento/Heuristica-Mestrado/src/GRASP/Instancia 3/saida_grasp2.txt' não está sobre controle de versão
+
+	at org.tigris.subversion.javahl.SVNClient.commit(Native Method)
+	at org.tigris.subversion.javahl.SVNClient.commit(SVNClient.java:524)
+	at org.tigris.subversion.svnclientadapter.javahl.AbstractJhlClientAdapter.commit(AbstractJhlClientAdapter.java:319)
+	... 13 more
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2011-11-15 18:36:53.905
+!MESSAGE org.tigris.subversion.javahl.ClientException: Requisição de camada RA falhou
+svn: Commit falhou (detalhes a seguir):
+svn: OPTIONS de 'https://heuristica-mestrado.googlecode.com/svn/trunk/src/ILS': Não é possível resolver o nome de host `heuristica-mestrado.googlecode.com': Host não encontrado (https://heuristica-mestrado.googlecode.com)
+
+!STACK 0
+org.tigris.subversion.svnclientadapter.SVNClientException: org.tigris.subversion.javahl.ClientException: Requisição de camada RA falhou
+svn: Commit falhou (detalhes a seguir):
+svn: OPTIONS de 'https://heuristica-mestrado.googlecode.com/svn/trunk/src/ILS': Não é possível resolver o nome de host `heuristica-mestrado.googlecode.com': Host não encontrado (https://heuristica-mestrado.googlecode.com)
+
+	at org.tigris.subversion.svnclientadapter.javahl.AbstractJhlClientAdapter.commit(AbstractJhlClientAdapter.java:325)
+	at org.tigris.subversion.subclipse.core.commands.CheckinResourcesCommand$1.run(CheckinResourcesCommand.java:118)
+	at org.tigris.subversion.subclipse.core.SVNProviderPlugin$5.run(SVNProviderPlugin.java:469)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:1800)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:1782)
+	at org.tigris.subversion.subclipse.core.SVNProviderPlugin.run(SVNProviderPlugin.java:464)
+	at org.tigris.subversion.subclipse.core.commands.CheckinResourcesCommand.run(CheckinResourcesCommand.java:94)
+	at org.tigris.subversion.subclipse.core.SVNTeamProvider.checkin(SVNTeamProvider.java:139)
+	at org.tigris.subversion.subclipse.ui.operations.CommitOperation.execute(CommitOperation.java:124)
+	at org.tigris.subversion.subclipse.ui.operations.SVNOperation.run(SVNOperation.java:90)
+	at org.eclipse.team.internal.ui.actions.JobRunnableContext.run(JobRunnableContext.java:144)
+	at org.eclipse.team.internal.ui.actions.JobRunnableContext$ResourceJob.runInWorkspace(JobRunnableContext.java:72)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: org.tigris.subversion.javahl.ClientException: Requisição de camada RA falhou
+svn: Commit falhou (detalhes a seguir):
+svn: OPTIONS de 'https://heuristica-mestrado.googlecode.com/svn/trunk/src/ILS': Não é possível resolver o nome de host `heuristica-mestrado.googlecode.com': Host não encontrado (https://heuristica-mestrado.googlecode.com)
+
+	at org.tigris.subversion.javahl.SVNClient.commit(Native Method)
+	at org.tigris.subversion.javahl.SVNClient.commit(SVNClient.java:524)
+	at org.tigris.subversion.svnclientadapter.javahl.AbstractJhlClientAdapter.commit(AbstractJhlClientAdapter.java:319)
+	... 13 more
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2011-11-15 22:28:56.269
+!MESSAGE org.tigris.subversion.javahl.ClientException: Não foi possível encontrar uma entrada
+svn: Commit falhou (detalhes a seguir):
+svn: '/home/tiago/Desenvolvimento/Heuristica-Mestrado/src/GRASP/Instancia 3/saida_grasp2.txt' não está sobre controle de versão
+
+!STACK 0
+org.tigris.subversion.svnclientadapter.SVNClientException: org.tigris.subversion.javahl.ClientException: Não foi possível encontrar uma entrada
+svn: Commit falhou (detalhes a seguir):
+svn: '/home/tiago/Desenvolvimento/Heuristica-Mestrado/src/GRASP/Instancia 3/saida_grasp2.txt' não está sobre controle de versão
+
+	at org.tigris.subversion.svnclientadapter.javahl.AbstractJhlClientAdapter.commit(AbstractJhlClientAdapter.java:325)
+	at org.tigris.subversion.subclipse.core.commands.CheckinResourcesCommand$1.run(CheckinResourcesCommand.java:118)
+	at org.tigris.subversion.subclipse.core.SVNProviderPlugin$5.run(SVNProviderPlugin.java:469)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:1800)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:1782)
+	at org.tigris.subversion.subclipse.core.SVNProviderPlugin.run(SVNProviderPlugin.java:464)
+	at org.tigris.subversion.subclipse.core.commands.CheckinResourcesCommand.run(CheckinResourcesCommand.java:94)
+	at org.tigris.subversion.subclipse.core.SVNTeamProvider.checkin(SVNTeamProvider.java:139)
+	at org.tigris.subversion.subclipse.ui.operations.CommitOperation.execute(CommitOperation.java:124)
+	at org.tigris.subversion.subclipse.ui.operations.SVNOperation.run(SVNOperation.java:90)
+	at org.eclipse.team.internal.ui.actions.JobRunnableContext.run(JobRunnableContext.java:144)
+	at org.eclipse.team.internal.ui.actions.JobRunnableContext$ResourceJob.runInWorkspace(JobRunnableContext.java:72)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: org.tigris.subversion.javahl.ClientException: Não foi possível encontrar uma entrada
+svn: Commit falhou (detalhes a seguir):
+svn: '/home/tiago/Desenvolvimento/Heuristica-Mestrado/src/GRASP/Instancia 3/saida_grasp2.txt' não está sobre controle de versão
+
+	at org.tigris.subversion.javahl.SVNClient.commit(Native Method)
+	at org.tigris.subversion.javahl.SVNClient.commit(SVNClient.java:524)
+	at org.tigris.subversion.svnclientadapter.javahl.AbstractJhlClientAdapter.commit(AbstractJhlClientAdapter.java:319)
+	... 13 more
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2011-11-15 22:29:50.720
+!MESSAGE org.tigris.subversion.javahl.ClientException: Não foi possível encontrar uma entrada
+svn: Commit falhou (detalhes a seguir):
+svn: '/home/tiago/Desenvolvimento/Heuristica-Mestrado/src/GRASP/Instancia 3/saida_grasp2.txt' não está sobre controle de versão
+
+!STACK 0
+org.tigris.subversion.svnclientadapter.SVNClientException: org.tigris.subversion.javahl.ClientException: Não foi possível encontrar uma entrada
+svn: Commit falhou (detalhes a seguir):
+svn: '/home/tiago/Desenvolvimento/Heuristica-Mestrado/src/GRASP/Instancia 3/saida_grasp2.txt' não está sobre controle de versão
+
+	at org.tigris.subversion.svnclientadapter.javahl.AbstractJhlClientAdapter.commit(AbstractJhlClientAdapter.java:325)
+	at org.tigris.subversion.subclipse.core.commands.CheckinResourcesCommand$1.run(CheckinResourcesCommand.java:118)
+	at org.tigris.subversion.subclipse.core.SVNProviderPlugin$5.run(SVNProviderPlugin.java:469)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:1800)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:1782)
+	at org.tigris.subversion.subclipse.core.SVNProviderPlugin.run(SVNProviderPlugin.java:464)
+	at org.tigris.subversion.subclipse.core.commands.CheckinResourcesCommand.run(CheckinResourcesCommand.java:94)
+	at org.tigris.subversion.subclipse.core.SVNTeamProvider.checkin(SVNTeamProvider.java:139)
+	at org.tigris.subversion.subclipse.ui.operations.CommitOperation.execute(CommitOperation.java:124)
+	at org.tigris.subversion.subclipse.ui.operations.SVNOperation.run(SVNOperation.java:90)
+	at org.eclipse.team.internal.ui.actions.JobRunnableContext.run(JobRunnableContext.java:144)
+	at org.eclipse.team.internal.ui.actions.JobRunnableContext$ResourceJob.runInWorkspace(JobRunnableContext.java:72)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: org.tigris.subversion.javahl.ClientException: Não foi possível encontrar uma entrada
+svn: Commit falhou (detalhes a seguir):
+svn: '/home/tiago/Desenvolvimento/Heuristica-Mestrado/src/GRASP/Instancia 3/saida_grasp2.txt' não está sobre controle de versão
+
+	at org.tigris.subversion.javahl.SVNClient.commit(Native Method)
+	at org.tigris.subversion.javahl.SVNClient.commit(SVNClient.java:524)
+	at org.tigris.subversion.svnclientadapter.javahl.AbstractJhlClientAdapter.commit(AbstractJhlClientAdapter.java:319)
+	... 13 more
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2011-11-15 22:31:09.046
+!MESSAGE org.tigris.subversion.javahl.ClientException: Item está desatualizado
+svn: Commit falhou (detalhes a seguir):
+svn: Item '/trunk/src/Instancia 1' is out of date
+
+!STACK 0
+org.tigris.subversion.svnclientadapter.SVNClientException: org.tigris.subversion.javahl.ClientException: Item está desatualizado
+svn: Commit falhou (detalhes a seguir):
+svn: Item '/trunk/src/Instancia 1' is out of date
+
+	at org.tigris.subversion.svnclientadapter.javahl.AbstractJhlClientAdapter.commit(AbstractJhlClientAdapter.java:325)
+	at org.tigris.subversion.subclipse.core.commands.CheckinResourcesCommand$1.run(CheckinResourcesCommand.java:118)
+	at org.tigris.subversion.subclipse.core.SVNProviderPlugin$5.run(SVNProviderPlugin.java:469)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:1800)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:1782)
+	at org.tigris.subversion.subclipse.core.SVNProviderPlugin.run(SVNProviderPlugin.java:464)
+	at org.tigris.subversion.subclipse.core.commands.CheckinResourcesCommand.run(CheckinResourcesCommand.java:94)
+	at org.tigris.subversion.subclipse.core.SVNTeamProvider.checkin(SVNTeamProvider.java:139)
+	at org.tigris.subversion.subclipse.ui.operations.CommitOperation.execute(CommitOperation.java:124)
+	at org.tigris.subversion.subclipse.ui.operations.SVNOperation.run(SVNOperation.java:90)
+	at org.eclipse.team.internal.ui.actions.JobRunnableContext.run(JobRunnableContext.java:144)
+	at org.eclipse.team.internal.ui.actions.JobRunnableContext$ResourceJob.runInWorkspace(JobRunnableContext.java:72)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: org.tigris.subversion.javahl.ClientException: Item está desatualizado
+svn: Commit falhou (detalhes a seguir):
+svn: Item '/trunk/src/Instancia 1' is out of date
+
+	at org.tigris.subversion.javahl.SVNClient.commit(Native Method)
+	at org.tigris.subversion.javahl.SVNClient.commit(SVNClient.java:524)
+	at org.tigris.subversion.svnclientadapter.javahl.AbstractJhlClientAdapter.commit(AbstractJhlClientAdapter.java:319)
+	... 13 more
+!SESSION 2011-11-18 20:02:47.254 -----------------------------------------------
+eclipse.buildId=M20100211-1343
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=pt_BR
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.jface 2 0 2011-11-18 20:03:01.873
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2011-11-18 20:03:01.873
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(com.python.pydev.analysis.actions.pyGlobalsBrowserWorkbench,Python Show Class Browser,
+		Show Class Browser,
+		Category(org.python.pydev.ui.category.source,Pydev - Editor,Pydev editor category,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.python.pydev 4 4 2011-11-18 20:42:10.815
+!MESSAGE No message gotten.
+!STACK 0
+org.eclipse.jface.text.BadLocationException
+	at org.eclipse.jface.text.AbstractDocument.computePartitioning(AbstractDocument.java:1390)
+	at org.eclipse.core.internal.filebuffers.SynchronizableDocument.computePartitioning(SynchronizableDocument.java:293)
+	at org.eclipse.jface.text.TextUtilities.computePartitioning(TextUtilities.java:429)
+	at org.python.pydev.editor.PyReconciler.reconcile(PyReconciler.java:227)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:77)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:206)
+!SESSION 2011-11-18 20:43:03.401 -----------------------------------------------
+eclipse.buildId=M20100211-1343
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=pt_BR
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.core.resources 2 10035 2011-11-18 20:43:04.571
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jface 2 0 2011-11-18 20:43:07.787
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2011-11-18 20:43:07.787
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(com.python.pydev.analysis.actions.pyGlobalsBrowserWorkbench,Python Show Class Browser,
+		Show Class Browser,
+		Category(org.python.pydev.ui.category.source,Pydev - Editor,Pydev editor category,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SESSION 2011-11-19 00:23:54.017 -----------------------------------------------
+eclipse.buildId=M20100211-1343
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=pt_BR
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.jface 2 0 2011-11-19 00:24:19.682
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2011-11-19 00:24:19.682
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(com.python.pydev.analysis.actions.pyGlobalsBrowserWorkbench,Python Show Class Browser,
+		Show Class Browser,
+		Category(org.python.pydev.ui.category.source,Pydev - Editor,Pydev editor category,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.tigris.subversion.subclipse.core 4 -6 2011-11-24 17:19:29.560
+!MESSAGE org.tigris.subversion.javahl.ClientException: Cópia de trabalho está corrompida
+svn: Commit falhou (detalhes a seguir):
+svn: Entrada para '/home/tiago/Desenvolvimento/Heuristica-Mestrado/src/Instancia 1' não possui URL
+
+!STACK 0
+org.tigris.subversion.svnclientadapter.SVNClientException: org.tigris.subversion.javahl.ClientException: Cópia de trabalho está corrompida
+svn: Commit falhou (detalhes a seguir):
+svn: Entrada para '/home/tiago/Desenvolvimento/Heuristica-Mestrado/src/Instancia 1' não possui URL
+
+	at org.tigris.subversion.svnclientadapter.javahl.AbstractJhlClientAdapter.commit(AbstractJhlClientAdapter.java:325)
+	at org.tigris.subversion.subclipse.core.commands.CheckinResourcesCommand$1.run(CheckinResourcesCommand.java:118)
+	at org.tigris.subversion.subclipse.core.SVNProviderPlugin$5.run(SVNProviderPlugin.java:469)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:1800)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:1782)
+	at org.tigris.subversion.subclipse.core.SVNProviderPlugin.run(SVNProviderPlugin.java:464)
+	at org.tigris.subversion.subclipse.core.commands.CheckinResourcesCommand.run(CheckinResourcesCommand.java:94)
+	at org.tigris.subversion.subclipse.core.SVNTeamProvider.checkin(SVNTeamProvider.java:139)
+	at org.tigris.subversion.subclipse.ui.operations.CommitOperation.execute(CommitOperation.java:124)
+	at org.tigris.subversion.subclipse.ui.operations.SVNOperation.run(SVNOperation.java:90)
+	at org.eclipse.team.internal.ui.actions.JobRunnableContext.run(JobRunnableContext.java:144)
+	at org.eclipse.team.internal.ui.actions.JobRunnableContext$ResourceJob.runInWorkspace(JobRunnableContext.java:72)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: org.tigris.subversion.javahl.ClientException: Cópia de trabalho está corrompida
+svn: Commit falhou (detalhes a seguir):
+svn: Entrada para '/home/tiago/Desenvolvimento/Heuristica-Mestrado/src/Instancia 1' não possui URL
+
+	at org.tigris.subversion.javahl.SVNClient.commit(Native Method)
+	at org.tigris.subversion.javahl.SVNClient.commit(SVNClient.java:524)
+	at org.tigris.subversion.svnclientadapter.javahl.AbstractJhlClientAdapter.commit(AbstractJhlClientAdapter.java:319)
+	... 13 more
+!SESSION 2011-11-27 15:19:07.753 -----------------------------------------------
+eclipse.buildId=M20100211-1343
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=pt_BR
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.jface 2 0 2011-11-27 15:19:27.899
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2011-11-27 15:19:27.900
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(com.python.pydev.analysis.actions.pyGlobalsBrowserWorkbench,Python Show Class Browser,
+		Show Class Browser,
+		Category(org.python.pydev.ui.category.source,Pydev - Editor,Pydev editor category,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SESSION 2011-11-29 23:06:01.501 -----------------------------------------------
+eclipse.buildId=M20100211-1343
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=pt_BR
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.jface 2 0 2011-11-29 23:06:22.946
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2011-11-29 23:06:22.946
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(com.python.pydev.analysis.actions.pyGlobalsBrowserWorkbench,Python Show Class Browser,
+		Show Class Browser,
+		Category(org.python.pydev.ui.category.source,Pydev - Editor,Pydev editor category,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SESSION 2012-06-07 14:34:12.801 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.6.0_24
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=pt_BR
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.ui 4 0 2012-06-07 14:34:33.552
+!MESSAGE Unable to create editor ID org.python.pydev.editor.PythonEditor: No editor descriptor for id org.python.pydev.editor.PythonEditor
+!STACK 1
+org.eclipse.ui.PartInitException: No editor descriptor for id org.python.pydev.editor.PythonEditor
+	at org.eclipse.ui.internal.EditorReference.createPartHelper(EditorReference.java:601)
+	at org.eclipse.ui.internal.EditorReference.createPart(EditorReference.java:465)
+	at org.eclipse.ui.internal.WorkbenchPartReference.getPart(WorkbenchPartReference.java:595)
+	at org.eclipse.ui.internal.EditorAreaHelper.setVisibleEditor(EditorAreaHelper.java:271)
+	at org.eclipse.ui.internal.EditorManager.setVisibleEditor(EditorManager.java:1459)
+	at org.eclipse.ui.internal.EditorManager$5.runWithException(EditorManager.java:972)
+	at org.eclipse.ui.internal.StartupThreading$StartupRunnable.run(StartupThreading.java:31)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3563)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3212)
+	at org.eclipse.ui.application.WorkbenchAdvisor.openWindows(WorkbenchAdvisor.java:803)
+	at org.eclipse.ui.internal.Workbench$33.runWithException(Workbench.java:1595)
+	at org.eclipse.ui.internal.StartupThreading$StartupRunnable.run(StartupThreading.java:31)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3563)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3212)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2604)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2494)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:674)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:667)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:123)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:344)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:616)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:622)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:577)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1410)
+!SUBENTRY 1 org.eclipse.ui 4 0 2012-06-07 14:34:33.552
+!MESSAGE No editor descriptor for id org.python.pydev.editor.PythonEditor
+
+!ENTRY org.eclipse.ui 2 2 2012-06-07 14:34:33.663
+!MESSAGE Ignored attempt to add saveable that was already registered
+!STACK 0
+org.eclipse.core.runtime.AssertionFailedException: unknown saveable: org.eclipse.ui.internal.DefaultSaveable@12ce574 from part: org.eclipse.ui.internal.ErrorEditorPart@12ce574
+	at org.eclipse.ui.internal.SaveablesList.logWarning(SaveablesList.java:187)
+	at org.eclipse.ui.internal.SaveablesList.addModel(SaveablesList.java:117)
+	at org.eclipse.ui.internal.SaveablesList.addModels(SaveablesList.java:289)
+	at org.eclipse.ui.internal.SaveablesList.postOpen(SaveablesList.java:695)
+	at org.eclipse.ui.internal.PartList.partOpened(PartList.java:234)
+	at org.eclipse.ui.internal.PartList.access$0(PartList.java:210)
+	at org.eclipse.ui.internal.PartList$1.propertyChanged(PartList.java:40)
+	at org.eclipse.ui.internal.WorkbenchPartReference.fireInternalPropertyChange(WorkbenchPartReference.java:375)
+	at org.eclipse.ui.internal.WorkbenchPartReference.getPart(WorkbenchPartReference.java:610)
+	at org.eclipse.ui.internal.EditorAreaHelper.setVisibleEditor(EditorAreaHelper.java:271)
+	at org.eclipse.ui.internal.EditorManager.setVisibleEditor(EditorManager.java:1459)
+	at org.eclipse.ui.internal.EditorManager$5.runWithException(EditorManager.java:972)
+	at org.eclipse.ui.internal.StartupThreading$StartupRunnable.run(StartupThreading.java:31)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3563)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3212)
+	at org.eclipse.ui.application.WorkbenchAdvisor.openWindows(WorkbenchAdvisor.java:803)
+	at org.eclipse.ui.internal.Workbench$33.runWithException(Workbench.java:1595)
+	at org.eclipse.ui.internal.StartupThreading$StartupRunnable.run(StartupThreading.java:31)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3563)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3212)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2604)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2494)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:674)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:667)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:123)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:344)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:616)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:622)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:577)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1410)
+
+!ENTRY org.eclipse.ui 2 2 2012-06-07 14:34:33.904
+!MESSAGE Perspective Pydev has been made into a local copy
+
+!ENTRY org.eclipse.ui 4 0 2012-06-07 14:34:34.199
+!MESSAGE Problems occurred restoring workbench.
+!SUBENTRY 1 unknown 0 0 2012-06-07 14:34:34.199
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2012-06-07 14:34:34.199
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2012-06-07 14:34:34.199
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2012-06-07 14:34:34.199
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.ui 4 0 2012-06-07 14:34:34.199
+!MESSAGE Unable to restore perspective: Workspace - Pydev.
+!SUBENTRY 2 org.eclipse.ui 0 0 2012-06-07 14:34:34.200
+!MESSAGE Problems occurred restoring perspective.
+!SUBENTRY 3 org.eclipse.ui 0 0 2012-06-07 14:34:34.200
+!MESSAGE 
+!SUBENTRY 2 unknown 0 0 2012-06-07 14:34:34.200
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2012-06-07 14:34:34.200
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2012-06-07 14:34:34.200
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2012-06-07 14:34:34.200
+!MESSAGE OK
+!SUBENTRY 2 org.eclipse.ui 4 4 2012-06-07 14:34:34.200
+!MESSAGE Could not create view: org.python.pydev.navigator.view
+!STACK 1
+org.eclipse.ui.PartInitException: Could not create view: org.python.pydev.navigator.view
+	at org.eclipse.ui.internal.ViewFactory.createView(ViewFactory.java:158)
+	at org.eclipse.ui.internal.Perspective.createReferences(Perspective.java:1249)
+	at org.eclipse.ui.internal.Perspective.restoreState(Perspective.java:1219)
+	at org.eclipse.ui.internal.WorkbenchPage$17.runWithException(WorkbenchPage.java:3293)
+	at org.eclipse.ui.internal.StartupThreading$StartupRunnable.run(StartupThreading.java:31)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3563)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3212)
+	at org.eclipse.ui.application.WorkbenchAdvisor.openWindows(WorkbenchAdvisor.java:803)
+	at org.eclipse.ui.internal.Workbench$33.runWithException(Workbench.java:1595)
+	at org.eclipse.ui.internal.StartupThreading$StartupRunnable.run(StartupThreading.java:31)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3563)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3212)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2604)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2494)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:674)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:667)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:123)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:344)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:616)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:622)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:577)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1410)
+!SUBENTRY 3 org.eclipse.ui 4 0 2012-06-07 14:34:34.200
+!MESSAGE Could not create view: org.python.pydev.navigator.view
+!SUBENTRY 2 unknown 0 0 2012-06-07 14:34:34.200
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2012-06-07 14:34:34.200
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2012-06-07 14:34:34.200
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2012-06-07 14:34:34.200
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2012-06-07 14:34:34.200
+!MESSAGE OK
+!SUBENTRY 2 org.eclipse.ui 4 0 2012-06-07 14:34:34.201
+!MESSAGE Could not find view: org.python.pydev.navigator.view
+!SUBENTRY 1 unknown 0 0 2012-06-07 14:34:34.201
+!MESSAGE OK
+
+!ENTRY org.eclipse.ui 4 0 2012-06-07 14:34:44.224
+!MESSAGE Unable to create editor ID org.python.pydev.editor.PythonEditor: No editor descriptor for id org.python.pydev.editor.PythonEditor
+!STACK 1
+org.eclipse.ui.PartInitException: No editor descriptor for id org.python.pydev.editor.PythonEditor
+	at org.eclipse.ui.internal.EditorReference.createPartHelper(EditorReference.java:601)
+	at org.eclipse.ui.internal.EditorReference.createPart(EditorReference.java:465)
+	at org.eclipse.ui.internal.WorkbenchPartReference.getPart(WorkbenchPartReference.java:595)
+	at org.eclipse.ui.internal.PartPane.setVisible(PartPane.java:313)
+	at org.eclipse.ui.internal.presentations.PresentablePart.setVisible(PresentablePart.java:180)
+	at org.eclipse.ui.internal.presentations.util.PresentablePartFolder.select(PresentablePartFolder.java:270)
+	at org.eclipse.ui.internal.presentations.util.LeftToRightTabOrder.select(LeftToRightTabOrder.java:65)
+	at org.eclipse.ui.internal.presentations.util.TabbedStackPresentation.selectPart(TabbedStackPresentation.java:473)
+	at org.eclipse.ui.internal.PartStack.refreshPresentationSelection(PartStack.java:1245)
+	at org.eclipse.ui.internal.PartStack.setSelection(PartStack.java:1198)
+	at org.eclipse.ui.internal.PartStack.presentationSelectionChanged(PartStack.java:834)
+	at org.eclipse.ui.internal.PartStack.access$1(PartStack.java:823)
+	at org.eclipse.ui.internal.PartStack$1.selectPart(PartStack.java:137)
+	at org.eclipse.ui.internal.presentations.util.TabbedStackPresentation$1.handleEvent(TabbedStackPresentation.java:133)
+	at org.eclipse.ui.internal.presentations.util.AbstractTabFolder.fireEvent(AbstractTabFolder.java:269)
+	at org.eclipse.ui.internal.presentations.util.AbstractTabFolder.fireEvent(AbstractTabFolder.java:278)
+	at org.eclipse.ui.internal.presentations.defaultpresentation.DefaultTabFolder.access$1(DefaultTabFolder.java:1)
+	at org.eclipse.ui.internal.presentations.defaultpresentation.DefaultTabFolder$2.handleEvent(DefaultTabFolder.java:88)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1258)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1282)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1267)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1061)
+	at org.eclipse.swt.custom.CTabFolder.setSelection(CTabFolder.java:2745)
+	at org.eclipse.swt.custom.CTabFolder.onMouse(CTabFolder.java:1432)
+	at org.eclipse.swt.custom.CTabFolder$1.handleEvent(CTabFolder.java:257)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1258)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3588)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3209)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2696)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2660)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2494)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:674)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:667)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:123)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:344)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:616)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:622)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:577)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1410)
+!SUBENTRY 1 org.eclipse.ui 4 0 2012-06-07 14:34:44.225
+!MESSAGE No editor descriptor for id org.python.pydev.editor.PythonEditor
+
+!ENTRY org.eclipse.ui 2 2 2012-06-07 14:34:44.257
+!MESSAGE Ignored attempt to add saveable that was already registered
+!STACK 0
+org.eclipse.core.runtime.AssertionFailedException: unknown saveable: org.eclipse.ui.internal.DefaultSaveable@1cfd7c from part: org.eclipse.ui.internal.ErrorEditorPart@1cfd7c
+	at org.eclipse.ui.internal.SaveablesList.logWarning(SaveablesList.java:187)
+	at org.eclipse.ui.internal.SaveablesList.addModel(SaveablesList.java:117)
+	at org.eclipse.ui.internal.SaveablesList.addModels(SaveablesList.java:289)
+	at org.eclipse.ui.internal.SaveablesList.postOpen(SaveablesList.java:695)
+	at org.eclipse.ui.internal.PartList.partOpened(PartList.java:234)
+	at org.eclipse.ui.internal.PartList.access$0(PartList.java:210)
+	at org.eclipse.ui.internal.PartList$1.propertyChanged(PartList.java:40)
+	at org.eclipse.ui.internal.WorkbenchPartReference.fireInternalPropertyChange(WorkbenchPartReference.java:375)
+	at org.eclipse.ui.internal.WorkbenchPartReference.getPart(WorkbenchPartReference.java:610)
+	at org.eclipse.ui.internal.PartPane.setVisible(PartPane.java:313)
+	at org.eclipse.ui.internal.presentations.PresentablePart.setVisible(PresentablePart.java:180)
+	at org.eclipse.ui.internal.presentations.util.PresentablePartFolder.select(PresentablePartFolder.java:270)
+	at org.eclipse.ui.internal.presentations.util.LeftToRightTabOrder.select(LeftToRightTabOrder.java:65)
+	at org.eclipse.ui.internal.presentations.util.TabbedStackPresentation.selectPart(TabbedStackPresentation.java:473)
+	at org.eclipse.ui.internal.PartStack.refreshPresentationSelection(PartStack.java:1245)
+	at org.eclipse.ui.internal.PartStack.setSelection(PartStack.java:1198)
+	at org.eclipse.ui.internal.PartStack.presentationSelectionChanged(PartStack.java:834)
+	at org.eclipse.ui.internal.PartStack.access$1(PartStack.java:823)
+	at org.eclipse.ui.internal.PartStack$1.selectPart(PartStack.java:137)
+	at org.eclipse.ui.internal.presentations.util.TabbedStackPresentation$1.handleEvent(TabbedStackPresentation.java:133)
+	at org.eclipse.ui.internal.presentations.util.AbstractTabFolder.fireEvent(AbstractTabFolder.java:269)
+	at org.eclipse.ui.internal.presentations.util.AbstractTabFolder.fireEvent(AbstractTabFolder.java:278)
+	at org.eclipse.ui.internal.presentations.defaultpresentation.DefaultTabFolder.access$1(DefaultTabFolder.java:1)
+	at org.eclipse.ui.internal.presentations.defaultpresentation.DefaultTabFolder$2.handleEvent(DefaultTabFolder.java:88)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1258)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1282)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1267)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1061)
+	at org.eclipse.swt.custom.CTabFolder.setSelection(CTabFolder.java:2745)
+	at org.eclipse.swt.custom.CTabFolder.onMouse(CTabFolder.java:1432)
+	at org.eclipse.swt.custom.CTabFolder$1.handleEvent(CTabFolder.java:257)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1258)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3588)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3209)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2696)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2660)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2494)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:674)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:667)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:123)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:344)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:616)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:622)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:577)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1410)
+
+!ENTRY org.eclipse.ui 4 0 2012-06-07 14:34:45.526
+!MESSAGE Unable to create editor ID org.python.pydev.editor.PythonEditor: No editor descriptor for id org.python.pydev.editor.PythonEditor
+!STACK 1
+org.eclipse.ui.PartInitException: No editor descriptor for id org.python.pydev.editor.PythonEditor
+	at org.eclipse.ui.internal.EditorReference.createPartHelper(EditorReference.java:601)
+	at org.eclipse.ui.internal.EditorReference.createPart(EditorReference.java:465)
+	at org.eclipse.ui.internal.WorkbenchPartReference.getPart(WorkbenchPartReference.java:595)
+	at org.eclipse.ui.internal.PartPane.setVisible(PartPane.java:313)
+	at org.eclipse.ui.internal.presentations.PresentablePart.setVisible(PresentablePart.java:180)
+	at org.eclipse.ui.internal.presentations.util.PresentablePartFolder.select(PresentablePartFolder.java:270)
+	at org.eclipse.ui.internal.presentations.util.LeftToRightTabOrder.select(LeftToRightTabOrder.java:65)
+	at org.eclipse.ui.internal.presentations.util.TabbedStackPresentation.selectPart(TabbedStackPresentation.java:473)
+	at org.eclipse.ui.internal.PartStack.refreshPresentationSelection(PartStack.java:1245)
+	at org.eclipse.ui.internal.PartStack.setSelection(PartStack.java:1198)
+	at org.eclipse.ui.internal.PartStack.presentationSelectionChanged(PartStack.java:834)
+	at org.eclipse.ui.internal.PartStack.access$1(PartStack.java:823)
+	at org.eclipse.ui.internal.PartStack$1.selectPart(PartStack.java:137)
+	at org.eclipse.ui.internal.presentations.util.TabbedStackPresentation$1.handleEvent(TabbedStackPresentation.java:133)
+	at org.eclipse.ui.internal.presentations.util.AbstractTabFolder.fireEvent(AbstractTabFolder.java:269)
+	at org.eclipse.ui.internal.presentations.util.AbstractTabFolder.fireEvent(AbstractTabFolder.java:278)
+	at org.eclipse.ui.internal.presentations.defaultpresentation.DefaultTabFolder.access$1(DefaultTabFolder.java:1)
+	at org.eclipse.ui.internal.presentations.defaultpresentation.DefaultTabFolder$2.handleEvent(DefaultTabFolder.java:88)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1258)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1282)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1267)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1061)
+	at org.eclipse.swt.custom.CTabFolder.setSelection(CTabFolder.java:2745)
+	at org.eclipse.swt.custom.CTabFolder.onMouse(CTabFolder.java:1432)
+	at org.eclipse.swt.custom.CTabFolder$1.handleEvent(CTabFolder.java:257)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1258)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3588)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3209)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2696)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2660)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2494)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:674)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:667)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:123)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:344)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:616)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:622)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:577)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1410)
+!SUBENTRY 1 org.eclipse.ui 4 0 2012-06-07 14:34:45.527
+!MESSAGE No editor descriptor for id org.python.pydev.editor.PythonEditor
+
+!ENTRY org.eclipse.ui 2 2 2012-06-07 14:34:45.603
+!MESSAGE Ignored attempt to add saveable that was already registered
+!STACK 0
+org.eclipse.core.runtime.AssertionFailedException: unknown saveable: org.eclipse.ui.internal.DefaultSaveable@c1dc0b from part: org.eclipse.ui.internal.ErrorEditorPart@c1dc0b
+	at org.eclipse.ui.internal.SaveablesList.logWarning(SaveablesList.java:187)
+	at org.eclipse.ui.internal.SaveablesList.addModel(SaveablesList.java:117)
+	at org.eclipse.ui.internal.SaveablesList.addModels(SaveablesList.java:289)
+	at org.eclipse.ui.internal.SaveablesList.postOpen(SaveablesList.java:695)
+	at org.eclipse.ui.internal.PartList.partOpened(PartList.java:234)
+	at org.eclipse.ui.internal.PartList.access$0(PartList.java:210)
+	at org.eclipse.ui.internal.PartList$1.propertyChanged(PartList.java:40)
+	at org.eclipse.ui.internal.WorkbenchPartReference.fireInternalPropertyChange(WorkbenchPartReference.java:375)
+	at org.eclipse.ui.internal.WorkbenchPartReference.getPart(WorkbenchPartReference.java:610)
+	at org.eclipse.ui.internal.PartPane.setVisible(PartPane.java:313)
+	at org.eclipse.ui.internal.presentations.PresentablePart.setVisible(PresentablePart.java:180)
+	at org.eclipse.ui.internal.presentations.util.PresentablePartFolder.select(PresentablePartFolder.java:270)
+	at org.eclipse.ui.internal.presentations.util.LeftToRightTabOrder.select(LeftToRightTabOrder.java:65)
+	at org.eclipse.ui.internal.presentations.util.TabbedStackPresentation.selectPart(TabbedStackPresentation.java:473)
+	at org.eclipse.ui.internal.PartStack.refreshPresentationSelection(PartStack.java:1245)
+	at org.eclipse.ui.internal.PartStack.setSelection(PartStack.java:1198)
+	at org.eclipse.ui.internal.PartStack.presentationSelectionChanged(PartStack.java:834)
+	at org.eclipse.ui.internal.PartStack.access$1(PartStack.java:823)
+	at org.eclipse.ui.internal.PartStack$1.selectPart(PartStack.java:137)
+	at org.eclipse.ui.internal.presentations.util.TabbedStackPresentation$1.handleEvent(TabbedStackPresentation.java:133)
+	at org.eclipse.ui.internal.presentations.util.AbstractTabFolder.fireEvent(AbstractTabFolder.java:269)
+	at org.eclipse.ui.internal.presentations.util.AbstractTabFolder.fireEvent(AbstractTabFolder.java:278)
+	at org.eclipse.ui.internal.presentations.defaultpresentation.DefaultTabFolder.access$1(DefaultTabFolder.java:1)
+	at org.eclipse.ui.internal.presentations.defaultpresentation.DefaultTabFolder$2.handleEvent(DefaultTabFolder.java:88)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1258)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1282)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1267)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1061)
+	at org.eclipse.swt.custom.CTabFolder.setSelection(CTabFolder.java:2745)
+	at org.eclipse.swt.custom.CTabFolder.onMouse(CTabFolder.java:1432)
+	at org.eclipse.swt.custom.CTabFolder$1.handleEvent(CTabFolder.java:257)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1258)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3588)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3209)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2696)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2660)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2494)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:674)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:667)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:123)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:344)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:616)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:622)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:577)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1410)
+
+!ENTRY org.eclipse.ui 4 0 2012-06-07 14:34:46.747
+!MESSAGE Unable to create editor ID org.python.pydev.editor.PythonEditor: No editor descriptor for id org.python.pydev.editor.PythonEditor
+!STACK 1
+org.eclipse.ui.PartInitException: No editor descriptor for id org.python.pydev.editor.PythonEditor
+	at org.eclipse.ui.internal.EditorReference.createPartHelper(EditorReference.java:601)
+	at org.eclipse.ui.internal.EditorReference.createPart(EditorReference.java:465)
+	at org.eclipse.ui.internal.WorkbenchPartReference.getPart(WorkbenchPartReference.java:595)
+	at org.eclipse.ui.internal.PartPane.setVisible(PartPane.java:313)
+	at org.eclipse.ui.internal.presentations.PresentablePart.setVisible(PresentablePart.java:180)
+	at org.eclipse.ui.internal.presentations.util.PresentablePartFolder.select(PresentablePartFolder.java:270)
+	at org.eclipse.ui.internal.presentations.util.LeftToRightTabOrder.select(LeftToRightTabOrder.java:65)
+	at org.eclipse.ui.internal.presentations.util.TabbedStackPresentation.selectPart(TabbedStackPresentation.java:473)
+	at org.eclipse.ui.internal.PartStack.refreshPresentationSelection(PartStack.java:1245)
+	at org.eclipse.ui.internal.PartStack.setSelection(PartStack.java:1198)
+	at org.eclipse.ui.internal.PartStack.presentationSelectionChanged(PartStack.java:834)
+	at org.eclipse.ui.internal.PartStack.access$1(PartStack.java:823)
+	at org.eclipse.ui.internal.PartStack$1.selectPart(PartStack.java:137)
+	at org.eclipse.ui.internal.presentations.util.TabbedStackPresentation$1.handleEvent(TabbedStackPresentation.java:133)
+	at org.eclipse.ui.internal.presentations.util.AbstractTabFolder.fireEvent(AbstractTabFolder.java:269)
+	at org.eclipse.ui.internal.presentations.util.AbstractTabFolder.fireEvent(AbstractTabFolder.java:278)
+	at org.eclipse.ui.internal.presentations.defaultpresentation.DefaultTabFolder.access$1(DefaultTabFolder.java:1)
+	at org.eclipse.ui.internal.presentations.defaultpresentation.DefaultTabFolder$2.handleEvent(DefaultTabFolder.java:88)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1258)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1282)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1267)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1061)
+	at org.eclipse.swt.custom.CTabFolder.setSelection(CTabFolder.java:2745)
+	at org.eclipse.swt.custom.CTabFolder.onMouse(CTabFolder.java:1432)
+	at org.eclipse.swt.custom.CTabFolder$1.handleEvent(CTabFolder.java:257)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1258)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3588)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3209)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2696)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2660)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2494)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:674)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:667)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:123)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:344)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:616)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:622)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:577)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1410)
+!SUBENTRY 1 org.eclipse.ui 4 0 2012-06-07 14:34:46.748
+!MESSAGE No editor descriptor for id org.python.pydev.editor.PythonEditor
+
+!ENTRY org.eclipse.ui 2 2 2012-06-07 14:34:46.786
+!MESSAGE Ignored attempt to add saveable that was already registered
+!STACK 0
+org.eclipse.core.runtime.AssertionFailedException: unknown saveable: org.eclipse.ui.internal.DefaultSaveable@17ed710 from part: org.eclipse.ui.internal.ErrorEditorPart@17ed710
+	at org.eclipse.ui.internal.SaveablesList.logWarning(SaveablesList.java:187)
+	at org.eclipse.ui.internal.SaveablesList.addModel(SaveablesList.java:117)
+	at org.eclipse.ui.internal.SaveablesList.addModels(SaveablesList.java:289)
+	at org.eclipse.ui.internal.SaveablesList.postOpen(SaveablesList.java:695)
+	at org.eclipse.ui.internal.PartList.partOpened(PartList.java:234)
+	at org.eclipse.ui.internal.PartList.access$0(PartList.java:210)
+	at org.eclipse.ui.internal.PartList$1.propertyChanged(PartList.java:40)
+	at org.eclipse.ui.internal.WorkbenchPartReference.fireInternalPropertyChange(WorkbenchPartReference.java:375)
+	at org.eclipse.ui.internal.WorkbenchPartReference.getPart(WorkbenchPartReference.java:610)
+	at org.eclipse.ui.internal.PartPane.setVisible(PartPane.java:313)
+	at org.eclipse.ui.internal.presentations.PresentablePart.setVisible(PresentablePart.java:180)
+	at org.eclipse.ui.internal.presentations.util.PresentablePartFolder.select(PresentablePartFolder.java:270)
+	at org.eclipse.ui.internal.presentations.util.LeftToRightTabOrder.select(LeftToRightTabOrder.java:65)
+	at org.eclipse.ui.internal.presentations.util.TabbedStackPresentation.selectPart(TabbedStackPresentation.java:473)
+	at org.eclipse.ui.internal.PartStack.refreshPresentationSelection(PartStack.java:1245)
+	at org.eclipse.ui.internal.PartStack.setSelection(PartStack.java:1198)
+	at org.eclipse.ui.internal.PartStack.presentationSelectionChanged(PartStack.java:834)
+	at org.eclipse.ui.internal.PartStack.access$1(PartStack.java:823)
+	at org.eclipse.ui.internal.PartStack$1.selectPart(PartStack.java:137)
+	at org.eclipse.ui.internal.presentations.util.TabbedStackPresentation$1.handleEvent(TabbedStackPresentation.java:133)
+	at org.eclipse.ui.internal.presentations.util.AbstractTabFolder.fireEvent(AbstractTabFolder.java:269)
+	at org.eclipse.ui.internal.presentations.util.AbstractTabFolder.fireEvent(AbstractTabFolder.java:278)
+	at org.eclipse.ui.internal.presentations.defaultpresentation.DefaultTabFolder.access$1(DefaultTabFolder.java:1)
+	at org.eclipse.ui.internal.presentations.defaultpresentation.DefaultTabFolder$2.handleEvent(DefaultTabFolder.java:88)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1258)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1282)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1267)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1061)
+	at org.eclipse.swt.custom.CTabFolder.setSelection(CTabFolder.java:2745)
+	at org.eclipse.swt.custom.CTabFolder.onMouse(CTabFolder.java:1432)
+	at org.eclipse.swt.custom.CTabFolder$1.handleEvent(CTabFolder.java:257)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1258)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3588)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3209)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2696)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2660)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2494)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:674)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:667)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:123)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:344)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:616)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:622)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:577)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1410)
+
+!ENTRY org.eclipse.ui 4 0 2012-06-07 14:34:47.600
+!MESSAGE Unable to create editor ID org.python.pydev.editor.PythonEditor: No editor descriptor for id org.python.pydev.editor.PythonEditor
+!STACK 1
+org.eclipse.ui.PartInitException: No editor descriptor for id org.python.pydev.editor.PythonEditor
+	at org.eclipse.ui.internal.EditorReference.createPartHelper(EditorReference.java:601)
+	at org.eclipse.ui.internal.EditorReference.createPart(EditorReference.java:465)
+	at org.eclipse.ui.internal.WorkbenchPartReference.getPart(WorkbenchPartReference.java:595)
+	at org.eclipse.ui.internal.PartPane.setVisible(PartPane.java:313)
+	at org.eclipse.ui.internal.presentations.PresentablePart.setVisible(PresentablePart.java:180)
+	at org.eclipse.ui.internal.presentations.util.PresentablePartFolder.select(PresentablePartFolder.java:270)
+	at org.eclipse.ui.internal.presentations.util.LeftToRightTabOrder.select(LeftToRightTabOrder.java:65)
+	at org.eclipse.ui.internal.presentations.util.TabbedStackPresentation.selectPart(TabbedStackPresentation.java:473)
+	at org.eclipse.ui.internal.PartStack.refreshPresentationSelection(PartStack.java:1245)
+	at org.eclipse.ui.internal.PartStack.setSelection(PartStack.java:1198)
+	at org.eclipse.ui.internal.PartStack.presentationSelectionChanged(PartStack.java:834)
+	at org.eclipse.ui.internal.PartStack.access$1(PartStack.java:823)
+	at org.eclipse.ui.internal.PartStack$1.selectPart(PartStack.java:137)
+	at org.eclipse.ui.internal.presentations.util.TabbedStackPresentation$1.handleEvent(TabbedStackPresentation.java:133)
+	at org.eclipse.ui.internal.presentations.util.AbstractTabFolder.fireEvent(AbstractTabFolder.java:269)
+	at org.eclipse.ui.internal.presentations.util.AbstractTabFolder.fireEvent(AbstractTabFolder.java:278)
+	at org.eclipse.ui.internal.presentations.defaultpresentation.DefaultTabFolder.access$1(DefaultTabFolder.java:1)
+	at org.eclipse.ui.internal.presentations.defaultpresentation.DefaultTabFolder$2.handleEvent(DefaultTabFolder.java:88)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1258)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1282)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1267)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1061)
+	at org.eclipse.swt.custom.CTabFolder.setSelection(CTabFolder.java:2745)
+	at org.eclipse.swt.custom.CTabFolder.onMouse(CTabFolder.java:1432)
+	at org.eclipse.swt.custom.CTabFolder$1.handleEvent(CTabFolder.java:257)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1258)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3588)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3209)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2696)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2660)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2494)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:674)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:667)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:123)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:344)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:616)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:622)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:577)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1410)
+!SUBENTRY 1 org.eclipse.ui 4 0 2012-06-07 14:34:47.601
+!MESSAGE No editor descriptor for id org.python.pydev.editor.PythonEditor
+
+!ENTRY org.eclipse.ui 2 2 2012-06-07 14:34:47.633
+!MESSAGE Ignored attempt to add saveable that was already registered
+!STACK 0
+org.eclipse.core.runtime.AssertionFailedException: unknown saveable: org.eclipse.ui.internal.DefaultSaveable@12aec21 from part: org.eclipse.ui.internal.ErrorEditorPart@12aec21
+	at org.eclipse.ui.internal.SaveablesList.logWarning(SaveablesList.java:187)
+	at org.eclipse.ui.internal.SaveablesList.addModel(SaveablesList.java:117)
+	at org.eclipse.ui.internal.SaveablesList.addModels(SaveablesList.java:289)
+	at org.eclipse.ui.internal.SaveablesList.postOpen(SaveablesList.java:695)
+	at org.eclipse.ui.internal.PartList.partOpened(PartList.java:234)
+	at org.eclipse.ui.internal.PartList.access$0(PartList.java:210)
+	at org.eclipse.ui.internal.PartList$1.propertyChanged(PartList.java:40)
+	at org.eclipse.ui.internal.WorkbenchPartReference.fireInternalPropertyChange(WorkbenchPartReference.java:375)
+	at org.eclipse.ui.internal.WorkbenchPartReference.getPart(WorkbenchPartReference.java:610)
+	at org.eclipse.ui.internal.PartPane.setVisible(PartPane.java:313)
+	at org.eclipse.ui.internal.presentations.PresentablePart.setVisible(PresentablePart.java:180)
+	at org.eclipse.ui.internal.presentations.util.PresentablePartFolder.select(PresentablePartFolder.java:270)
+	at org.eclipse.ui.internal.presentations.util.LeftToRightTabOrder.select(LeftToRightTabOrder.java:65)
+	at org.eclipse.ui.internal.presentations.util.TabbedStackPresentation.selectPart(TabbedStackPresentation.java:473)
+	at org.eclipse.ui.internal.PartStack.refreshPresentationSelection(PartStack.java:1245)
+	at org.eclipse.ui.internal.PartStack.setSelection(PartStack.java:1198)
+	at org.eclipse.ui.internal.PartStack.presentationSelectionChanged(PartStack.java:834)
+	at org.eclipse.ui.internal.PartStack.access$1(PartStack.java:823)
+	at org.eclipse.ui.internal.PartStack$1.selectPart(PartStack.java:137)
+	at org.eclipse.ui.internal.presentations.util.TabbedStackPresentation$1.handleEvent(TabbedStackPresentation.java:133)
+	at org.eclipse.ui.internal.presentations.util.AbstractTabFolder.fireEvent(AbstractTabFolder.java:269)
+	at org.eclipse.ui.internal.presentations.util.AbstractTabFolder.fireEvent(AbstractTabFolder.java:278)
+	at org.eclipse.ui.internal.presentations.defaultpresentation.DefaultTabFolder.access$1(DefaultTabFolder.java:1)
+	at org.eclipse.ui.internal.presentations.defaultpresentation.DefaultTabFolder$2.handleEvent(DefaultTabFolder.java:88)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1258)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1282)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1267)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1061)
+	at org.eclipse.swt.custom.CTabFolder.setSelection(CTabFolder.java:2745)
+	at org.eclipse.swt.custom.CTabFolder.onMouse(CTabFolder.java:1432)
+	at org.eclipse.swt.custom.CTabFolder$1.handleEvent(CTabFolder.java:257)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1258)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3588)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3209)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2696)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2660)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2494)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:674)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:667)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:123)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:344)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:616)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:622)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:577)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1410)
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2012-06-07 14:39:48.978
+!MESSAGE Connection to http://pydev.org/updates/p2.index failed on pydev.org. Retry attempt 0 started
+!STACK 0
+java.net.UnknownHostException: pydev.org
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:175)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:384)
+	at java.net.Socket.connect(Socket.java:546)
+	at org.eclipse.ecf.provider.filetransfer.events.socket.SocketEventCreateUtil.createSocket(SocketEventCreateUtil.java:43)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient.ECFHttpClientProtocolSocketFactory.createSocket(ECFHttpClientProtocolSocketFactory.java:81)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient.ECFHttpClientProtocolSocketFactory.createSocket(ECFHttpClientProtocolSocketFactory.java:73)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient.ECFHttpClientProtocolSocketFactory.createSocket(ECFHttpClientProtocolSocketFactory.java:65)
+	at org.apache.commons.httpclient.HttpConnection.open(HttpConnection.java:707)
+	at org.apache.commons.httpclient.MultiThreadedHttpConnectionManager$HttpConnectionAdapter.open(MultiThreadedHttpConnectionManager.java:1361)
+	at org.apache.commons.httpclient.HttpMethodDirector.executeWithRetry(HttpMethodDirector.java:387)
+	at org.apache.commons.httpclient.HttpMethodDirector.executeMethod(HttpMethodDirector.java:171)
+	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:397)
+	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:346)
+	at org.eclipse.ecf.provider.filetransfer.httpclient.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1142)
+	at org.eclipse.ecf.provider.filetransfer.httpclient.HttpClientRetrieveFileTransfer.openStreams(HttpClientRetrieveFileTransfer.java:710)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer.sendRetrieveRequest(AbstractRetrieveFileTransfer.java:889)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer.sendRetrieveRequest(AbstractRetrieveFileTransfer.java:576)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.MultiProtocolRetrieveAdapter.sendRetrieveRequest(MultiProtocolRetrieveAdapter.java:106)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileReader.sendRetrieveRequest(FileReader.java:349)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileReader.readInto(FileReader.java:295)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.download(RepositoryTransport.java:80)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.download(RepositoryTransport.java:130)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadIndexFile(AbstractRepositoryManager.java:721)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:640)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.p2.ui.ProvisioningUI.loadMetadataRepository(ProvisioningUI.java:402)
+	at org.eclipse.equinox.internal.p2.ui.model.MetadataRepositoryElement.getMetadataRepository(MetadataRepositoryElement.java:120)
+	at org.eclipse.equinox.internal.p2.ui.model.MetadataRepositoryElement.fetchChildren(MetadataRepositoryElement.java:70)
+	at org.eclipse.equinox.internal.p2.ui.model.RemoteQueriedElement.fetchDeferredChildren(RemoteQueriedElement.java:34)
+	at org.eclipse.ui.progress.DeferredTreeContentManager$1.run(DeferredTreeContentManager.java:235)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2012-06-07 14:41:37.057
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-06-07 14:41:37.057
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-06-07 14:41:37.057
+!MESSAGE Software being installed: Pydev Mylyn Integration 0.3.0 (org.python.pydev.mylyn.feature.feature.group 0.3.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-06-07 14:41:37.057
+!MESSAGE Missing requirement: Pydev Mylyn Integration 0.3.0 (org.python.pydev.mylyn.feature.feature.group 0.3.0) requires 'org.eclipse.mylyn 2.0.0.v20070627-1400' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2012-06-07 14:41:37.062
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-06-07 14:41:37.062
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-06-07 14:41:37.062
+!MESSAGE Software being installed: Pydev Mylyn Integration 0.3.0 (org.python.pydev.mylyn.feature.feature.group 0.3.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-06-07 14:41:37.062
+!MESSAGE Missing requirement: Pydev Mylyn Integration 0.3.0 (org.python.pydev.mylyn.feature.feature.group 0.3.0) requires 'org.eclipse.mylyn 2.0.0.v20070627-1400' but it could not be found
+!SESSION 2012-06-07 14:44:08.429 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.6.0_24
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=pt_BR
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.python.pydev.core 1 1 2012-06-07 14:44:16.343
+!MESSAGE Restoring info for: /usr/bin/python2.6
+!STACK 0
+java.lang.RuntimeException: Restoring info for: /usr/bin/python2.6
+	at org.python.pydev.ui.interpreters.AbstractInterpreterManager.getInterpretersFromPersistedString(AbstractInterpreterManager.java:493)
+	at org.python.pydev.ui.interpreters.AbstractInterpreterManager.internalRecreateCacheGetInterpreterInfos(AbstractInterpreterManager.java:328)
+	at org.python.pydev.ui.interpreters.AbstractInterpreterManager.getInterpreterInfos(AbstractInterpreterManager.java:315)
+	at org.python.pydev.ui.interpreters.AbstractInterpreterManager.<init>(AbstractInterpreterManager.java:170)
+	at org.python.pydev.ui.interpreters.PythonInterpreterManager.<init>(PythonInterpreterManager.java:28)
+	at org.python.pydev.plugin.PydevPlugin.start(PydevPlugin.java:197)
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl$1.run(BundleContextImpl.java:711)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl.startActivator(BundleContextImpl.java:702)
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl.start(BundleContextImpl.java:683)
+	at org.eclipse.osgi.framework.internal.core.BundleHost.startWorker(BundleHost.java:381)
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.start(AbstractBundle.java:299)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:440)
+	at org.eclipse.osgi.internal.loader.BundleLoader.setLazyTrigger(BundleLoader.java:268)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:107)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findLocalClass(ClasspathManager.java:462)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.findLocalClass(DefaultClassLoader.java:216)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:400)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:476)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:429)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:417)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:107)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:266)
+	at org.eclipse.osgi.internal.loader.BundleLoader.loadClass(BundleLoader.java:345)
+	at org.eclipse.osgi.framework.internal.core.BundleHost.loadClass(BundleHost.java:229)
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.loadClass(AbstractBundle.java:1207)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:174)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:905)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:243)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:55)
+	at org.eclipse.ui.internal.WorkbenchPlugin$1.run(WorkbenchPlugin.java:268)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.ui.internal.WorkbenchPlugin.createExtension(WorkbenchPlugin.java:264)
+	at org.eclipse.ui.internal.registry.EditorDescriptor.createEditor(EditorDescriptor.java:235)
+	at org.eclipse.ui.internal.EditorManager.createPart(EditorManager.java:875)
+	at org.eclipse.ui.internal.EditorReference.createPartHelper(EditorReference.java:609)
+	at org.eclipse.ui.internal.EditorReference.createPart(EditorReference.java:465)
+	at org.eclipse.ui.internal.WorkbenchPartReference.getPart(WorkbenchPartReference.java:595)
+	at org.eclipse.ui.internal.EditorAreaHelper.setVisibleEditor(EditorAreaHelper.java:271)
+	at org.eclipse.ui.internal.EditorManager.setVisibleEditor(EditorManager.java:1459)
+	at org.eclipse.ui.internal.EditorManager$5.runWithException(EditorManager.java:972)
+	at org.eclipse.ui.internal.StartupThreading$StartupRunnable.run(StartupThreading.java:31)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3563)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3212)
+	at org.eclipse.ui.application.WorkbenchAdvisor.openWindows(WorkbenchAdvisor.java:803)
+	at org.eclipse.ui.internal.Workbench$33.runWithException(Workbench.java:1595)
+	at org.eclipse.ui.internal.StartupThreading$StartupRunnable.run(StartupThreading.java:31)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3563)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3212)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2604)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2494)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:674)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:667)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:123)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:344)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:616)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:622)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:577)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1410)
+Caused by: java.io.IOException: Expecting: /home/tiago/Desenvolvimento/.metadata/.plugins/org.python.pydev/v1_4fkkw82y758w8n00pmr7xyd93/modulesKeys to exist (and be a file).
+	at org.python.pydev.editor.codecompletion.revisited.ModulesManager.loadFromFile(ModulesManager.java:248)
+	at org.python.pydev.editor.codecompletion.revisited.SystemModulesManager.load(SystemModulesManager.java:369)
+	at org.python.pydev.ui.interpreters.AbstractInterpreterManager.getInterpretersFromPersistedString(AbstractInterpreterManager.java:491)
+	... 71 more
+
+!ENTRY org.python.pydev.core 1 1 2012-06-07 14:44:16.729
+!MESSAGE Finished restoring information for: /usr/bin/python2.6 at: /home/tiago/Desenvolvimento/.metadata/.plugins/org.python.pydev/v1_4fkkw82y758w8n00pmr7xyd93
+!STACK 0
+java.lang.RuntimeException: Finished restoring information for: /usr/bin/python2.6 at: /home/tiago/Desenvolvimento/.metadata/.plugins/org.python.pydev/v1_4fkkw82y758w8n00pmr7xyd93
+	at org.python.pydev.core.log.Log.logInfo(Log.java:112)
+	at org.python.pydev.ui.interpreters.AbstractInterpreterManager.getInterpretersFromPersistedString(AbstractInterpreterManager.java:538)
+	at org.python.pydev.ui.interpreters.AbstractInterpreterManager.internalRecreateCacheGetInterpreterInfos(AbstractInterpreterManager.java:328)
+	at org.python.pydev.ui.interpreters.AbstractInterpreterManager.getInterpreterInfos(AbstractInterpreterManager.java:315)
+	at org.python.pydev.ui.interpreters.AbstractInterpreterManager.<init>(AbstractInterpreterManager.java:170)
+	at org.python.pydev.ui.interpreters.PythonInterpreterManager.<init>(PythonInterpreterManager.java:28)
+	at org.python.pydev.plugin.PydevPlugin.start(PydevPlugin.java:197)
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl$1.run(BundleContextImpl.java:711)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl.startActivator(BundleContextImpl.java:702)
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl.start(BundleContextImpl.java:683)
+	at org.eclipse.osgi.framework.internal.core.BundleHost.startWorker(BundleHost.java:381)
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.start(AbstractBundle.java:299)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:440)
+	at org.eclipse.osgi.internal.loader.BundleLoader.setLazyTrigger(BundleLoader.java:268)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:107)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findLocalClass(ClasspathManager.java:462)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.findLocalClass(DefaultClassLoader.java:216)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:400)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:476)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:429)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:417)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:107)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:266)
+	at org.eclipse.osgi.internal.loader.BundleLoader.loadClass(BundleLoader.java:345)
+	at org.eclipse.osgi.framework.internal.core.BundleHost.loadClass(BundleHost.java:229)
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.loadClass(AbstractBundle.java:1207)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:174)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:905)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:243)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:55)
+	at org.eclipse.ui.internal.WorkbenchPlugin$1.run(WorkbenchPlugin.java:268)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.ui.internal.WorkbenchPlugin.createExtension(WorkbenchPlugin.java:264)
+	at org.eclipse.ui.internal.registry.EditorDescriptor.createEditor(EditorDescriptor.java:235)
+	at org.eclipse.ui.internal.EditorManager.createPart(EditorManager.java:875)
+	at org.eclipse.ui.internal.EditorReference.createPartHelper(EditorReference.java:609)
+	at org.eclipse.ui.internal.EditorReference.createPart(EditorReference.java:465)
+	at org.eclipse.ui.internal.WorkbenchPartReference.getPart(WorkbenchPartReference.java:595)
+	at org.eclipse.ui.internal.EditorAreaHelper.setVisibleEditor(EditorAreaHelper.java:271)
+	at org.eclipse.ui.internal.EditorManager.setVisibleEditor(EditorManager.java:1459)
+	at org.eclipse.ui.internal.EditorManager$5.runWithException(EditorManager.java:972)
+	at org.eclipse.ui.internal.StartupThreading$StartupRunnable.run(StartupThreading.java:31)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3563)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3212)
+	at org.eclipse.ui.application.WorkbenchAdvisor.openWindows(WorkbenchAdvisor.java:803)
+	at org.eclipse.ui.internal.Workbench$33.runWithException(Workbench.java:1595)
+	at org.eclipse.ui.internal.StartupThreading$StartupRunnable.run(StartupThreading.java:31)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3563)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3212)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2604)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2494)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:674)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:667)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:123)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:344)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:616)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:622)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:577)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1410)
+
+!ENTRY org.python.pydev.core 4 4 2012-06-07 14:44:23.469
+!MESSAGE Info: Rebuilding internal caches: /home/tiago/Desenvolvimento/.metadata/.plugins/com.python.pydev.analysis/python_v1_4fkkw82y758w8n00pmr7xyd93/python.pydevsysteminfo (Expected error to be provided and got no error!)
+
+!ENTRY org.python.pydev.core 1 1 2012-06-07 14:44:23.645
+!MESSAGE Info: Rebuilding internal caches: /home/tiago/Desenvolvimento/.metadata/.plugins/org.eclipse.core.resources/.projects/Heuristica-Mestrado/com.python.pydev.analysis/AdditionalProjectInterpreterInfo.pydevinfo
+!STACK 0
+java.lang.RuntimeException: java.io.InvalidClassException: org.python.pydev.core.Tuple; local class incompatible: stream classdesc serialVersionUID = -5454160723308114894, local class serialVersionUID = 1
+	at com.python.pydev.analysis.additionalinfo.IOUtils.readFromFile(AbstractAdditionalTokensInfo.java:868)
+	at com.python.pydev.analysis.additionalinfo.AbstractAdditionalDependencyInfo.loadContentsFromFile(AbstractAdditionalDependencyInfo.java:604)
+	at com.python.pydev.analysis.additionalinfo.AbstractAdditionalDependencyInfo.load(AbstractAdditionalDependencyInfo.java:518)
+	at com.python.pydev.analysis.additionalinfo.AdditionalProjectInterpreterInfo.getAdditionalInfoForProject(AdditionalProjectInterpreterInfo.java:209)
+	at com.python.pydev.analysis.additionalinfo.AdditionalProjectInterpreterInfo.recreateAllInfo(AdditionalProjectInterpreterInfo.java:268)
+	at com.python.pydev.analysis.additionalinfo.builders.InterpreterObserver.notifyProjectPythonpathRestored(InterpreterObserver.java:27)
+	at org.python.pydev.plugin.nature.PythonNature$RebuildPythonNatureModules.run(PythonNature.java:174)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+Caused by: java.io.InvalidClassException: org.python.pydev.core.Tuple; local class incompatible: stream classdesc serialVersionUID = -5454160723308114894, local class serialVersionUID = 1
+	at java.io.ObjectStreamClass.initNonProxy(ObjectStreamClass.java:579)
+	at java.io.ObjectInputStream.readNonProxyDesc(ObjectInputStream.java:1600)
+	at java.io.ObjectInputStream.readClassDesc(ObjectInputStream.java:1513)
+	at java.io.ObjectInputStream.readOrdinaryObject(ObjectInputStream.java:1749)
+	at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1346)
+	at java.io.ObjectInputStream.readObject(ObjectInputStream.java:368)
+	at com.python.pydev.analysis.additionalinfo.IOUtils.readFromFile(AbstractAdditionalTokensInfo.java:859)
+	... 7 more
+
+!ENTRY org.eclipse.team.core 4 0 2012-06-07 14:47:00.363
+!MESSAGE Could not instantiate provider org.tigris.subversion.subclipse.core.svnnature for project Heuristica.
+!STACK 1
+org.eclipse.team.core.TeamException: Could not instantiate provider org.tigris.subversion.subclipse.core.svnnature for project Heuristica.
+	at org.eclipse.team.core.RepositoryProvider.mapNewProvider(RepositoryProvider.java:165)
+	at org.eclipse.team.core.RepositoryProvider.mapExistingProvider(RepositoryProvider.java:235)
+	at org.eclipse.team.core.RepositoryProvider.getProvider(RepositoryProvider.java:507)
+	at org.eclipse.team.internal.ccvs.ui.CVSLightweightDecorator.isMappedToCVS(CVSLightweightDecorator.java:192)
+	at org.eclipse.team.internal.ccvs.ui.CVSLightweightDecorator.decorate(CVSLightweightDecorator.java:147)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorDefinition.decorate(LightweightDecoratorDefinition.java:263)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager$LightweightRunnable.run(LightweightDecoratorManager.java:81)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.decorate(LightweightDecoratorManager.java:365)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.getDecorations(LightweightDecoratorManager.java:347)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.ensureResultCached(DecorationScheduler.java:370)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.run(DecorationScheduler.java:330)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.team.core 4 0 2012-06-07 14:47:00.364
+!MESSAGE Could not instantiate provider org.tigris.subversion.subclipse.core.svnnature for project Heuristica.
+
+!ENTRY org.eclipse.team.core 4 0 2012-06-07 14:47:00.370
+!MESSAGE Could not instantiate provider org.tigris.subversion.subclipse.core.svnnature for project Heuristica-Mestrado.
+!STACK 1
+org.eclipse.team.core.TeamException: Could not instantiate provider org.tigris.subversion.subclipse.core.svnnature for project Heuristica-Mestrado.
+	at org.eclipse.team.core.RepositoryProvider.mapNewProvider(RepositoryProvider.java:165)
+	at org.eclipse.team.core.RepositoryProvider.mapExistingProvider(RepositoryProvider.java:235)
+	at org.eclipse.team.core.RepositoryProvider.getProvider(RepositoryProvider.java:507)
+	at org.eclipse.team.internal.ccvs.ui.CVSLightweightDecorator.isMappedToCVS(CVSLightweightDecorator.java:192)
+	at org.eclipse.team.internal.ccvs.ui.CVSLightweightDecorator.decorate(CVSLightweightDecorator.java:147)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorDefinition.decorate(LightweightDecoratorDefinition.java:263)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager$LightweightRunnable.run(LightweightDecoratorManager.java:81)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.decorate(LightweightDecoratorManager.java:365)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.getDecorations(LightweightDecoratorManager.java:347)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.ensureResultCached(DecorationScheduler.java:370)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.run(DecorationScheduler.java:330)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.team.core 4 0 2012-06-07 14:47:00.370
+!MESSAGE Could not instantiate provider org.tigris.subversion.subclipse.core.svnnature for project Heuristica-Mestrado.
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2012-06-07 15:13:22.069
+!MESSAGE Provisioning exception
+!STACK 1
+org.eclipse.equinox.p2.core.ProvisionException: No repository found at http://git-scm.com/.
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.fail(AbstractRepositoryManager.java:393)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:675)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.p2.ui.LoadMetadataRepositoryJob.doLoad(LoadMetadataRepositoryJob.java:117)
+	at org.eclipse.equinox.p2.ui.LoadMetadataRepositoryJob.runModal(LoadMetadataRepositoryJob.java:102)
+	at org.eclipse.equinox.internal.p2.ui.sdk.PreloadingRepositoryHandler$2.runModal(PreloadingRepositoryHandler.java:82)
+	at org.eclipse.equinox.p2.operations.ProvisioningJob.run(ProvisioningJob.java:177)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.equinox.p2.metadata.repository 4 1000 2012-06-07 15:13:22.069
+!MESSAGE No repository found at http://git-scm.com/.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2012-06-07 15:13:22.072
+!MESSAGE No repository found at http://git-scm.com/.
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2012-06-07 15:14:50.352
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-06-07 15:14:50.352
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-06-07 15:14:50.352
+!MESSAGE Software being installed: EGit Mylyn 1.3.0.201202151440-r (org.eclipse.egit.mylyn.feature.group 1.3.0.201202151440-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-06-07 15:14:50.352
+!MESSAGE Missing requirement: EGit Mylyn 1.3.0.201202151440-r (org.eclipse.egit.mylyn.feature.group 1.3.0.201202151440-r) requires 'org.eclipse.mylyn.team_feature.feature.group 3.5.0' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2012-06-07 15:14:50.357
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-06-07 15:14:50.357
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-06-07 15:14:50.357
+!MESSAGE Software being installed: EGit Mylyn 1.3.0.201202151440-r (org.eclipse.egit.mylyn.feature.group 1.3.0.201202151440-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-06-07 15:14:50.357
+!MESSAGE Missing requirement: EGit Mylyn 1.3.0.201202151440-r (org.eclipse.egit.mylyn.feature.group 1.3.0.201202151440-r) requires 'org.eclipse.mylyn.team_feature.feature.group 3.5.0' but it could not be found
+!SESSION 2012-06-08 14:34:57.093 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.6.0_24
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=pt_BR
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2012-06-08 14:46:40.832
+!MESSAGE Provisioning exception
+!STACK 1
+org.eclipse.equinox.p2.core.ProvisionException: No repository found at http://git-scm.com/.
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.fail(AbstractRepositoryManager.java:393)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:675)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.p2.ui.LoadMetadataRepositoryJob.doLoad(LoadMetadataRepositoryJob.java:117)
+	at org.eclipse.equinox.p2.ui.LoadMetadataRepositoryJob.runModal(LoadMetadataRepositoryJob.java:102)
+	at org.eclipse.equinox.internal.p2.ui.sdk.PreloadingRepositoryHandler$2.runModal(PreloadingRepositoryHandler.java:82)
+	at org.eclipse.equinox.p2.operations.ProvisioningJob.run(ProvisioningJob.java:177)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.equinox.p2.metadata.repository 4 1000 2012-06-08 14:46:40.832
+!MESSAGE No repository found at http://git-scm.com/.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2012-06-08 14:46:48.287
+!MESSAGE No repository found at http://git-scm.com/.
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2012-06-08 14:47:35.592
+!MESSAGE Provisioning exception
+!STACK 1
+org.eclipse.equinox.p2.core.ProvisionException: No repository found at http://git-scm.com/.
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.fail(AbstractRepositoryManager.java:393)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:636)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.p2.ui.LoadMetadataRepositoryJob.doLoad(LoadMetadataRepositoryJob.java:117)
+	at org.eclipse.equinox.p2.ui.LoadMetadataRepositoryJob.runModal(LoadMetadataRepositoryJob.java:102)
+	at org.eclipse.equinox.internal.p2.ui.sdk.PreloadingRepositoryHandler$2.runModal(PreloadingRepositoryHandler.java:82)
+	at org.eclipse.equinox.p2.operations.ProvisioningJob.run(ProvisioningJob.java:177)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.equinox.p2.metadata.repository 4 1000 2012-06-08 14:47:35.592
+!MESSAGE No repository found at http://git-scm.com/.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2012-06-08 14:47:35.593
+!MESSAGE No repository found at http://git-scm.com/.
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2012-06-08 14:48:48.037
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-06-08 14:48:48.037
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-06-08 14:48:48.037
+!MESSAGE Software being installed: EGit Mylyn 1.3.0.201202151440-r (org.eclipse.egit.mylyn.feature.group 1.3.0.201202151440-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-06-08 14:48:48.037
+!MESSAGE Missing requirement: EGit Mylyn 1.3.0.201202151440-r (org.eclipse.egit.mylyn.feature.group 1.3.0.201202151440-r) requires 'org.eclipse.mylyn.team_feature.feature.group 3.5.0' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2012-06-08 14:48:48.040
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-06-08 14:48:48.040
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-06-08 14:48:48.040
+!MESSAGE Software being installed: EGit Mylyn 1.3.0.201202151440-r (org.eclipse.egit.mylyn.feature.group 1.3.0.201202151440-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-06-08 14:48:48.040
+!MESSAGE Missing requirement: EGit Mylyn 1.3.0.201202151440-r (org.eclipse.egit.mylyn.feature.group 1.3.0.201202151440-r) requires 'org.eclipse.mylyn.team_feature.feature.group 3.5.0' but it could not be found

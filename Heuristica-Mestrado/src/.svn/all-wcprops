@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/svn/!svn/ver/2/trunk/src
+END
+heuristica_gulosa.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/26/trunk/src/heuristica_gulosa.py
+END
+grasp.py
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/3/trunk/src/grasp.py
+END
+heuristica_grasp_1.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/21/trunk/src/heuristica_grasp_1.py
+END
+heuristica_grasp_2.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/22/trunk/src/heuristica_grasp_2.py
+END
+heuristica_old.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/10/trunk/src/heuristica_old.py
+END
+heuristica2.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/9/trunk/src/heuristica2.py
+END
+saida_grasp1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/23/trunk/src/saida_grasp1.txt
+END
+saida_grasp2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/23/trunk/src/saida_grasp2.txt
+END

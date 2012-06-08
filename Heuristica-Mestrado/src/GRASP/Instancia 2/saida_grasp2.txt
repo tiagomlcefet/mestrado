@@ -1,0 +1,2 @@
+Melhor Solucao --> 199 usuarios conectados.
+Tempo gasto para execução do algoritmo = 13.97 mitutos.

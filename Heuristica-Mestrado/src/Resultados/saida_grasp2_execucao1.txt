@@ -1,0 +1,22 @@
+Iteracao 1 -->> 113
+Iteracao 2 -->> 78
+Iteracao 3 -->> 99
+Iteracao 4 -->> 110
+Iteracao 5 -->> 113
+Iteracao 6 -->> 98
+Iteracao 7 -->> 94
+Iteracao 8 -->> 106
+Iteracao 9 -->> 108
+Iteracao 10 -->> 116
+Iteracao 11 -->> 95
+Iteracao 12 -->> 118
+Iteracao 13 -->> 90
+Iteracao 14 -->> 101
+Iteracao 15 -->> 98
+Iteracao 16 -->> 109
+Iteracao 17 -->> 95
+Iteracao 18 -->> 105
+Iteracao 19 -->> 115
+Iteracao 20 -->> 81
+Melhor Solucao --> 118 usuarios conectados.
+Tempo gasto para execução do algoritmo = 20.11 mitutos.

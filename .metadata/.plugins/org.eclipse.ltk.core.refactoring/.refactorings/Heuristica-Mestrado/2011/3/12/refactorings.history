@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Heuristica-Mestrado/src/heuristica_old&apos; to &apos;heuristica_old.py&apos;" description="Rename resource &apos;heuristica_old&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/heuristica_old" name="heuristica_old.py" stamp="1300555904048" updateReferences="true"/>
+</session>
