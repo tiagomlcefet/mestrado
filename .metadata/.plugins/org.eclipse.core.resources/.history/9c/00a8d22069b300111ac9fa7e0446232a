@@ -81,7 +81,7 @@ clientes["cliente38"]=(23, 40)
 clientes["cliente39"]=(14, 51)
 clientes["cliente40"]=(15, 51)       
 for p in range(18):
-    for i in range (40):
+    for i in range (39):
         x1= possiveis_pontos.values()[p][0]
         y1= possiveis_pontos.values()[p][1]
         x2= clientes.values()[i][0]

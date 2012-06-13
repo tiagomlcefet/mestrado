@@ -81,13 +81,13 @@ clientes["cliente38"]=(23, 40)
 clientes["cliente39"]=(14, 51)
 clientes["cliente40"]=(15, 51)       
 for p in range(18):
-    for i in range (40):
+    for i in range (39):
         x1= possiveis_pontos.values()[p][0]
         y1= possiveis_pontos.values()[p][1]
-        x2= clientes.values()[i][0]
-        y2= clientes.values()[i][1]
+        x2= possiveis_pontos.values()[i][0]
+        y2= possiveis_pontos.values()[i][1]
         distancia = ((((x1-x2)**2)+((y1-y2)**2))**0.5)*10
-        distancia = round(distancia) 
+        distancia = round(distancia, 0) 
         arquivo.write(str(distancia))
         arquivo.write(" ")
     arquivo.write('\n')
